@@ -1,0 +1,536 @@
+Reading movies into list...
+Total movies: 11543392
+Elapsed time (s): 12.812
+Converting movie list to map...
+Elapsed time (s): 2.577
+Reading ratings into map...
+Elapsed time (s): 6.102
+Processing: CONTAINS MOVIE The Big Lebowski
+Movie{ID='tt0118715', titleType=MOVIE, title='The Big Lebowski', year=1998, runtimeMinutes=117, genres=[COMEDY, CRIME], rating=Rating{ID='tt0118715', rating=8.1, numVotes=900536}}
+Elapsed time (s): 0.851
+Processing: CONTAINS MOVIE WXYZ
+Elapsed time (s): 0.309
+Processing: CONTAINS MOVIE Starman
+Movie{ID='tt0088172', titleType=MOVIE, title='Starman', year=1984, runtimeMinutes=115, genres=[ROMANCE, SCI_FI], rating=Rating{ID='tt0088172', rating=7.0, numVotes=55800}}
+Movie{ID='tt12248228', titleType=MOVIE, title='Starman', year=2020, runtimeMinutes=52, genres=[DOCUMENTARY], rating=Rating{ID='tt12248228', rating=6.2, numVotes=48}}
+Movie{ID='tt21220632', titleType=MOVIE, title='Starman', year=2025, runtimeMinutes=85, genres=[DOCUMENTARY], rating=Rating{ID='tt21220632', rating=9.2, numVotes=9}}
+Movie{ID='tt5603512', titleType=MOVIE, title='Starman', year=0, runtimeMinutes=115, genres=[ADVENTURE, DRAMA, ROMANCE], rating=Rating{ID='tt5603512', rating=0.0, numVotes=0}}
+Movie{ID='tt6989456', titleType=MOVIE, title='David Bowie: Starman', year=2016, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt6989456', rating=5.8, numVotes=8}}
+Elapsed time (s): 0.281
+Processing: CONTAINS MOVIE Avengers
+Movie{ID='tt0034639', titleType=MOVIE, title='The Avengers', year=1942, runtimeMinutes=87, genres=[DRAMA, WAR], rating=Rating{ID='tt0034639', rating=6.1, numVotes=651}}
+Movie{ID='tt0036194', titleType=MOVIE, title='The People's Avengers', year=1943, runtimeMinutes=55, genres=[DOCUMENTARY, WAR], rating=Rating{ID='tt0036194', rating=0.0, numVotes=0}}
+Movie{ID='tt0058651', titleType=MOVIE, title='The Three Avengers', year=1964, runtimeMinutes=97, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt0058651', rating=5.5, numVotes=85}}
+Movie{ID='tt0069746', titleType=MOVIE, title='Avengers of the Reef', year=1973, runtimeMinutes=84, genres=[ADVENTURE, FAMILY], rating=Rating{ID='tt0069746', rating=5.4, numVotes=13}}
+Movie{ID='tt0074513', titleType=MOVIE, title='The Shaolin Avengers', year=1976, runtimeMinutes=97, genres=[ACTION, DRAMA], rating=Rating{ID='tt0074513', rating=6.1, numVotes=360}}
+Movie{ID='tt0077292', titleType=MOVIE, title='Crippled Avengers', year=1978, runtimeMinutes=104, genres=[ACTION, DRAMA], rating=Rating{ID='tt0077292', rating=7.3, numVotes=3297}}
+Movie{ID='tt0079110', titleType=MOVIE, title='Three Avengers', year=1979, runtimeMinutes=86, genres=[ACTION, DRAMA], rating=Rating{ID='tt0079110', rating=6.4, numVotes=113}}
+Movie{ID='tt0082153', titleType=MOVIE, title='Masked Avengers', year=1981, runtimeMinutes=92, genres=[ACTION, DRAMA], rating=Rating{ID='tt0082153', rating=7.0, numVotes=859}}
+Movie{ID='tt0118661', titleType=MOVIE, title='The Avengers', year=1998, runtimeMinutes=89, genres=[ACTION, ADVENTURE, SCI_FI], rating=Rating{ID='tt0118661', rating=3.8, numVotes=46474}}
+Movie{ID='tt0164623', titleType=MOVIE, title='Avengers from Hell', year=1981, runtimeMinutes=0, genres=[HORROR], rating=Rating{ID='tt0164623', rating=4.2, numVotes=25}}
+Movie{ID='tt0167779', titleType=MOVIE, title='The Avengers', year=1950, runtimeMinutes=90, genres=[ADVENTURE], rating=Rating{ID='tt0167779', rating=5.7, numVotes=31}}
+Movie{ID='tt0185673', titleType=MOVIE, title='Shaolin Avengers', year=1994, runtimeMinutes=86, genres=[ACTION], rating=Rating{ID='tt0185673', rating=5.3, numVotes=46}}
+Movie{ID='tt0199812', titleType=MOVIE, title='Ninja Avengers', year=1987, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt0199812', rating=5.1, numVotes=117}}
+Movie{ID='tt0492596', titleType=MOVIE, title='The Dark Avengers', year=2005, runtimeMinutes=103, genres=[ACTION, CRIME, DRAMA], rating=Rating{ID='tt0492596', rating=7.2, numVotes=49}}
+Movie{ID='tt0848228', titleType=MOVIE, title='The Avengers', year=2012, runtimeMinutes=143, genres=[ACTION, SCI_FI], rating=Rating{ID='tt0848228', rating=8.0, numVotes=1527858}}
+Movie{ID='tt10075836', titleType=MOVIE, title='The Avengers Assemble Premiere', year=2012, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt10075836', rating=7.6, numVotes=98}}
+Movie{ID='tt10197932', titleType=MOVIE, title='Spanish Avengers', year=0, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt10197932', rating=0.0, numVotes=0}}
+Movie{ID='tt1190633', titleType=MOVIE, title='Blackbelt Avengers', year=1969, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt1190633', rating=0.0, numVotes=0}}
+Movie{ID='tt13836554', titleType=MOVIE, title='Lego Justice League vs the Avengers', year=2016, runtimeMinutes=50, genres=[ACTION, ANIMATION, COMEDY], rating=Rating{ID='tt13836554', rating=0.0, numVotes=0}}
+Movie{ID='tt1472588', titleType=MOVIE, title='Vegas Avengers', year=0, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt1472588', rating=0.0, numVotes=0}}
+Movie{ID='tt15554634', titleType=MOVIE, title='Avengers: Age of Extinction', year=2020, runtimeMinutes=85, genres=[ADVENTURE], rating=Rating{ID='tt15554634', rating=0.0, numVotes=0}}
+Movie{ID='tt16103750', titleType=MOVIE, title='Rifftrax: Avengers: Endgame', year=2020, runtimeMinutes=0, genres=[ACTION, COMEDY, SCI_FI], rating=Rating{ID='tt16103750', rating=7.3, numVotes=17}}
+Movie{ID='tt18183576', titleType=MOVIE, title='Avengers: Rise of the Villains', year=2022, runtimeMinutes=57, genres=[ACTION], rating=Rating{ID='tt18183576', rating=0.0, numVotes=0}}
+Movie{ID='tt21357150', titleType=MOVIE, title='Avengers: Doomsday', year=2026, runtimeMinutes=0, genres=[ACTION, ADVENTURE, SCI_FI], rating=Rating{ID='tt21357150', rating=0.0, numVotes=0}}
+Movie{ID='tt21361444', titleType=MOVIE, title='Avengers: Secret Wars', year=2027, runtimeMinutes=0, genres=[ACTION, ADVENTURE, SCI_FI], rating=Rating{ID='tt21361444', rating=0.0, numVotes=0}}
+Movie{ID='tt2395427', titleType=MOVIE, title='Avengers: Age of Ultron', year=2015, runtimeMinutes=141, genres=[ACTION, ADVENTURE, SCI_FI], rating=Rating{ID='tt2395427', rating=7.3, numVotes=975878}}
+Movie{ID='tt26699418', titleType=MOVIE, title='Avengers: Doom of the World', year=2023, runtimeMinutes=75, genres=[ACTION, ADVENTURE], rating=Rating{ID='tt26699418', rating=8.9, numVotes=37}}
+Movie{ID='tt28105838', titleType=MOVIE, title='Avengers Declassified: Secret Invasion', year=0, runtimeMinutes=0, genres=[THRILLER], rating=Rating{ID='tt28105838', rating=0.0, numVotes=0}}
+Movie{ID='tt28477867', titleType=MOVIE, title='Lego Marvel Avengers: Code Red', year=2023, runtimeMinutes=46, genres=[ACTION, ADVENTURE, ANIMATION], rating=Rating{ID='tt28477867', rating=5.5, numVotes=1249}}
+Movie{ID='tt30997271', titleType=MOVIE, title='Avengers', year=2024, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt30997271', rating=0.0, numVotes=0}}
+Movie{ID='tt33482739', titleType=MOVIE, title='The Avengers', year=2012, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt33482739', rating=0.0, numVotes=0}}
+Movie{ID='tt35225402', titleType=MOVIE, title='Mini Avengers', year=2024, runtimeMinutes=200, genres=[BIOGRAPHY, COMEDY, DRAMA], rating=Rating{ID='tt35225402', rating=0.0, numVotes=0}}
+Movie{ID='tt36140530', titleType=MOVIE, title='Avengers Assemble', year=0, runtimeMinutes=121, genres=[ACTION], rating=Rating{ID='tt36140530', rating=0.0, numVotes=0}}
+Movie{ID='tt38390625', titleType=MOVIE, title='Avengers: Race Against Time', year=0, runtimeMinutes=0, genres=[SCI_FI], rating=Rating{ID='tt38390625', rating=0.0, numVotes=0}}
+Movie{ID='tt4154756', titleType=MOVIE, title='Avengers: Infinity War', year=2018, runtimeMinutes=149, genres=[ACTION, ADVENTURE, SCI_FI], rating=Rating{ID='tt4154756', rating=8.4, numVotes=1320299}}
+Movie{ID='tt4154796', titleType=MOVIE, title='Avengers: Endgame', year=2019, runtimeMinutes=181, genres=[ACTION, ADVENTURE, SCI_FI], rating=Rating{ID='tt4154796', rating=8.4, numVotes=1389927}}
+Movie{ID='tt6172666', titleType=MOVIE, title='Avengers of Justice: Farce Wars', year=2018, runtimeMinutes=87, genres=[ACTION, COMEDY, FAMILY], rating=Rating{ID='tt6172666', rating=2.4, numVotes=844}}
+Movie{ID='tt7870278', titleType=MOVIE, title='The Lesbian Avengers Eat Fire, Too', year=1993, runtimeMinutes=56, genres=[DOCUMENTARY], rating=Rating{ID='tt7870278', rating=7.3, numVotes=23}}
+Movie{ID='tt8875872', titleType=MOVIE, title='Avengers: Reassembled', year=2018, runtimeMinutes=52, genres=[SCI_FI], rating=Rating{ID='tt8875872', rating=6.7, numVotes=14}}
+Movie{ID='tt9303032', titleType=MOVIE, title='Avengers: Legacy', year=2020, runtimeMinutes=87, genres=[SCI_FI], rating=Rating{ID='tt9303032', rating=0.0, numVotes=0}}
+Elapsed time (s): 0.296
+Processing: CONTAINS MOVIE Philadelphia
+Movie{ID='tt0032904', titleType=MOVIE, title='The Philadelphia Story', year=1940, runtimeMinutes=112, genres=[COMEDY, ROMANCE], rating=Rating{ID='tt0032904', rating=7.8, numVotes=77224}}
+Movie{ID='tt0053462', titleType=MOVIE, title='The Young Philadelphians', year=1959, runtimeMinutes=136, genres=[DRAMA], rating=Rating{ID='tt0053462', rating=7.4, numVotes=4509}}
+Movie{ID='tt0087910', titleType=MOVIE, title='The Philadelphia Experiment', year=1984, runtimeMinutes=102, genres=[ADVENTURE, DRAMA, ROMANCE], rating=Rating{ID='tt0087910', rating=6.1, numVotes=17670}}
+Movie{ID='tt0107818', titleType=MOVIE, title='Philadelphia', year=1993, runtimeMinutes=125, genres=[DRAMA], rating=Rating{ID='tt0107818', rating=7.7, numVotes=269277}}
+Movie{ID='tt0107819', titleType=MOVIE, title='Philadelphia Experiment II', year=1993, runtimeMinutes=97, genres=[ACTION, ADVENTURE, SCI_FI], rating=Rating{ID='tt0107819', rating=4.5, numVotes=2323}}
+Movie{ID='tt0284690', titleType=MOVIE, title='Philadelphia, Here I Come!', year=1974, runtimeMinutes=95, genres=[DRAMA], rating=Rating{ID='tt0284690', rating=6.7, numVotes=124}}
+Movie{ID='tt0357774', titleType=MOVIE, title='I'd Rather Be in Philadelphia', year=2003, runtimeMinutes=0, genres=[COMEDY, THRILLER], rating=Rating{ID='tt0357774', rating=7.5, numVotes=17}}
+Movie{ID='tt0385796', titleType=MOVIE, title='Jochen: A Golzower from Philadelphia', year=2002, runtimeMinutes=119, genres=[DOCUMENTARY], rating=Rating{ID='tt0385796', rating=7.5, numVotes=19}}
+Movie{ID='tt10197800', titleType=MOVIE, title='Target: Philadelphia', year=2019, runtimeMinutes=56, genres=[DOCUMENTARY], rating=Rating{ID='tt10197800', rating=0.0, numVotes=0}}
+Movie{ID='tt11742456', titleType=MOVIE, title='Philadelphia Flyers Origin Story', year=0, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt11742456', rating=0.0, numVotes=0}}
+Movie{ID='tt12023640', titleType=MOVIE, title='Philadelphia's Sleeper', year=2020, runtimeMinutes=0, genres=[CRIME], rating=Rating{ID='tt12023640', rating=0.0, numVotes=0}}
+Movie{ID='tt17592194', titleType=MOVIE, title='The Sound of Philadelphia', year=0, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt17592194', rating=0.0, numVotes=0}}
+Movie{ID='tt1821661', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Kavakos Plays Tchaikovsky', year=2010, runtimeMinutes=0, genres=[MUSIC], rating=Rating{ID='tt1821661', rating=0.0, numVotes=0}}
+Movie{ID='tt1821662', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Nezet-Seguin Haydn to Mahler', year=2010, runtimeMinutes=0, genres=[MUSIC], rating=Rating{ID='tt1821662', rating=0.0, numVotes=0}}
+Movie{ID='tt1821663', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Spano Conducts Sibelius', year=2010, runtimeMinutes=0, genres=[MUSIC], rating=Rating{ID='tt1821663', rating=0.0, numVotes=0}}
+Movie{ID='tt1821664', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Starry Night of Romeo & Juliet', year=2010, runtimeMinutes=0, genres=[MUSIC], rating=Rating{ID='tt1821664', rating=0.0, numVotes=0}}
+Movie{ID='tt1830856', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Gilbert Conducts', year=2011, runtimeMinutes=120, genres=[MUSIC], rating=Rating{ID='tt1830856', rating=0.0, numVotes=0}}
+Movie{ID='tt18351628', titleType=MOVIE, title='The Man from Philadelphia', year=2022, runtimeMinutes=63, genres=[COMEDY], rating=Rating{ID='tt18351628', rating=8.2, numVotes=9}}
+Movie{ID='tt1842312', titleType=MOVIE, title='Arthur B. Carles: Philadelphia Artist', year=2004, runtimeMinutes=45, genres=[DOCUMENTARY], rating=Rating{ID='tt1842312', rating=0.0, numVotes=0}}
+Movie{ID='tt1863431', titleType=MOVIE, title='The Truth About The Philadelphia Experiment: Invisibility, Time Travel and Mind Control - The Shocking Truth', year=2010, runtimeMinutes=180, genres=[DOCUMENTARY], rating=Rating{ID='tt1863431', rating=6.1, numVotes=20}}
+Movie{ID='tt2177792', titleType=MOVIE, title='The Philadelphia Experiment Revealed: Final Countdown to Disclosure from the Area 51 Archives', year=2012, runtimeMinutes=300, genres=[DOCUMENTARY], rating=Rating{ID='tt2177792', rating=6.8, numVotes=43}}
+Movie{ID='tt21799754', titleType=MOVIE, title='The Philadelphia Chronicles', year=0, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt21799754', rating=0.0, numVotes=0}}
+Movie{ID='tt2196476', titleType=MOVIE, title='Beirut, Philadelphia', year=2013, runtimeMinutes=50, genres=[DOCUMENTARY, DRAMA], rating=Rating{ID='tt2196476', rating=0.0, numVotes=0}}
+Movie{ID='tt2585208', titleType=MOVIE, title='Louis Theroux: Law and Disorder in Philadelphia', year=2008, runtimeMinutes=60, genres=[DOCUMENTARY], rating=Rating{ID='tt2585208', rating=7.5, numVotes=1136}}
+Movie{ID='tt2625510', titleType=MOVIE, title='A Historical Approach to the Positive Music: Jazz in Philadelphia!', year=2013, runtimeMinutes=113, genres=[BIOGRAPHY, DOCUMENTARY, HISTORY], rating=Rating{ID='tt2625510', rating=0.0, numVotes=0}}
+Movie{ID='tt27618792', titleType=MOVIE, title='Bad Things Happen in Philadelphia', year=2023, runtimeMinutes=69, genres=[DOCUMENTARY], rating=Rating{ID='tt27618792', rating=9.5, numVotes=11}}
+Movie{ID='tt28090274', titleType=MOVIE, title='Marilyn Coleman's North Philadelphia', year=1968, runtimeMinutes=51, genres=[DOCUMENTARY, MUSIC], rating=Rating{ID='tt28090274', rating=0.0, numVotes=0}}
+Movie{ID='tt32156308', titleType=MOVIE, title='The Philadelphia Eleven', year=2023, runtimeMinutes=86, genres=[DOCUMENTARY], rating=Rating{ID='tt32156308', rating=8.6, numVotes=9}}
+Movie{ID='tt33655851', titleType=MOVIE, title='Phillip Philadelphia', year=0, runtimeMinutes=0, genres=[COMEDY, DRAMA], rating=Rating{ID='tt33655851', rating=0.0, numVotes=0}}
+Movie{ID='tt34265256', titleType=MOVIE, title='Okinawa Philadelphia', year=2023, runtimeMinutes=56, genres=[DOCUMENTARY], rating=Rating{ID='tt34265256', rating=0.0, numVotes=0}}
+Movie{ID='tt35542284', titleType=MOVIE, title='Taking Root: Southeast Asian Resettlement Stories in Philadelphia', year=2023, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt35542284', rating=0.0, numVotes=0}}
+Movie{ID='tt35921522', titleType=MOVIE, title='An LDS Temple in Philadelphia, Birthplace of American Freedom', year=2016, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt35921522', rating=0.0, numVotes=0}}
+Movie{ID='tt36686944', titleType=MOVIE, title='Made in Philadelphia', year=0, runtimeMinutes=0, genres=[CRIME], rating=Rating{ID='tt36686944', rating=0.0, numVotes=0}}
+Movie{ID='tt37090719', titleType=MOVIE, title='No Risk, No Gain: The Sisters of Saint Francis of Philadelphia', year=2025, runtimeMinutes=99, genres=[DOCUMENTARY], rating=Rating{ID='tt37090719', rating=0.0, numVotes=0}}
+Movie{ID='tt37511710', titleType=MOVIE, title='The Swede of Philadelphia (the Pelle Lindbergh story)', year=2025, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt37511710', rating=0.0, numVotes=0}}
+Movie{ID='tt37675173', titleType=MOVIE, title='Super Bowl Champions: The 2024 Philadelphia Eagles', year=2025, runtimeMinutes=0, genres=[DOCUMENTARY, SPORT], rating=Rating{ID='tt37675173', rating=9.6, numVotes=8}}
+Movie{ID='tt4073086', titleType=MOVIE, title='Radio Disney Philadelphia', year=2014, runtimeMinutes=0, genres=[MUSICAL], rating=Rating{ID='tt4073086', rating=0.0, numVotes=0}}
+Movie{ID='tt4108340', titleType=MOVIE, title='The Philadelphia Orchestra: Yannick Nézet-Séguin Conducts the Rite of Spring', year=2013, runtimeMinutes=111, genres=[MUSIC], rating=Rating{ID='tt4108340', rating=0.0, numVotes=0}}
+Movie{ID='tt5119528', titleType=MOVIE, title='The Last Ride: A Philadelphia Story', year=0, runtimeMinutes=89, genres=[DOCUMENTARY, DRAMA], rating=Rating{ID='tt5119528', rating=0.0, numVotes=0}}
+Movie{ID='tt5187360', titleType=MOVIE, title='The Philadelphia Bicycle Vignette Story', year=2017, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt5187360', rating=8.8, numVotes=16}}
+Movie{ID='tt5291706', titleType=MOVIE, title='World Meeting of Families: 2015 Philadelphia', year=2015, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt5291706', rating=0.0, numVotes=0}}
+Movie{ID='tt5897790', titleType=MOVIE, title='Revolution in Philadelphia', year=0, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt5897790', rating=0.0, numVotes=0}}
+Movie{ID='tt6197514', titleType=MOVIE, title='Philadelphia Project', year=2016, runtimeMinutes=60, genres=[DOCUMENTARY], rating=Rating{ID='tt6197514', rating=0.0, numVotes=0}}
+Movie{ID='tt6899026', titleType=MOVIE, title='It's Always Sunny in Philadelphia: Cast & Creators Live at the Paley Center', year=2010, runtimeMinutes=73, genres=[COMEDY], rating=Rating{ID='tt6899026', rating=9.0, numVotes=18}}
+Movie{ID='tt7874338', titleType=MOVIE, title='Before Hollywood: Philadelphia and the Birth of the Movies', year=2017, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt7874338', rating=9.3, numVotes=10}}
+Movie{ID='tt8174096', titleType=MOVIE, title='Casual Encounters: Philadelphia True Crime Confessions', year=0, runtimeMinutes=0, genres=[CRIME, DRAMA, MYSTERY], rating=Rating{ID='tt8174096', rating=0.0, numVotes=0}}
+Movie{ID='tt8947210', titleType=MOVIE, title='Monsters of Philadelphia', year=0, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt8947210', rating=0.0, numVotes=0}}
+Elapsed time (s): 0.312
+Processing: CONTAINS VIDEO_GAME Mario
+Movie{ID='tt0176971', titleType=VIDEO_GAME, title='Mario Bros.', year=1983, runtimeMinutes=0, genres=[ACTION, FANTASY], rating=Rating{ID='tt0176971', rating=7.3, numVotes=1571}}
+Movie{ID='tt0177266', titleType=VIDEO_GAME, title='Super Mario Bros.', year=1985, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt0177266', rating=8.8, numVotes=7782}}
+Movie{ID='tt0204291', titleType=VIDEO_GAME, title='Dr. Mario', year=1990, runtimeMinutes=0, genres=[ACTION, FAMILY], rating=Rating{ID='tt0204291', rating=7.1, numVotes=1134}}
+Movie{ID='tt0204657', titleType=VIDEO_GAME, title='Super Mario 64', year=1996, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt0204657', rating=9.1, numVotes=7803}}
+Movie{ID='tt0204658', titleType=VIDEO_GAME, title='Super Mario Bros.: The Lost Levels', year=1986, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0204658', rating=7.3, numVotes=1674}}
+Movie{ID='tt0204659', titleType=VIDEO_GAME, title='Super Mario Bros. 2', year=1988, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0204659', rating=7.5, numVotes=3669}}
+Movie{ID='tt0204660', titleType=VIDEO_GAME, title='Super Mario Land', year=1989, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0204660', rating=7.6, numVotes=1411}}
+Movie{ID='tt0221381', titleType=VIDEO_GAME, title='Mario Is Missing!', year=1992, runtimeMinutes=0, genres=[ADVENTURE, FAMILY], rating=Rating{ID='tt0221381', rating=3.9, numVotes=244}}
+Movie{ID='tt0221603', titleType=VIDEO_GAME, title='Super Mario All-Stars', year=1993, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0221603', rating=8.9, numVotes=1302}}
+Movie{ID='tt0221604', titleType=VIDEO_GAME, title='Super Mario Kart', year=1992, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt0221604', rating=8.2, numVotes=2698}}
+Movie{ID='tt0221605', titleType=VIDEO_GAME, title='Super Mario Land 2: 6 Golden Coins', year=1992, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0221605', rating=8.0, numVotes=971}}
+Movie{ID='tt0221606', titleType=VIDEO_GAME, title='Super Mario World', year=1990, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0221606', rating=9.2, numVotes=6016}}
+Movie{ID='tt0221693', titleType=VIDEO_GAME, title='Wario Land: Super Mario Land 3', year=1994, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt0221693', rating=7.4, numVotes=356}}
+Movie{ID='tt0222407', titleType=VIDEO_GAME, title='Super Mario World 2: Yoshi's Island', year=1995, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt0222407', rating=8.5, numVotes=2372}}
+Movie{ID='tt0234202', titleType=VIDEO_GAME, title='Mario Kart 64', year=1996, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt0234202', rating=8.6, numVotes=3818}}
+Movie{ID='tt0249174', titleType=VIDEO_GAME, title='Super Mario Bros. 3', year=1988, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0249174', rating=9.2, numVotes=6258}}
+Movie{ID='tt0271807', titleType=VIDEO_GAME, title='Super Mario RPG: Legend of the Seven Stars', year=1996, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0271807', rating=8.6, numVotes=1335}}
+Movie{ID='tt0276320', titleType=VIDEO_GAME, title='Mario Tennis', year=2000, runtimeMinutes=0, genres=[ACTION, FAMILY, SPORT], rating=Rating{ID='tt0276320', rating=7.7, numVotes=519}}
+Movie{ID='tt0276388', titleType=VIDEO_GAME, title='Paper Mario', year=2000, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt0276388', rating=8.4, numVotes=1152}}
+Movie{ID='tt0279945', titleType=VIDEO_GAME, title='Mario Party', year=1998, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt0279945', rating=7.7, numVotes=998}}
+Movie{ID='tt0279946', titleType=VIDEO_GAME, title='Mario Party 2', year=1999, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt0279946', rating=8.0, numVotes=805}}
+Movie{ID='tt0279947', titleType=VIDEO_GAME, title='Mario Party 3', year=2000, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt0279947', rating=7.7, numVotes=640}}
+Movie{ID='tt0281822', titleType=VIDEO_GAME, title='Dr. Mario 64', year=2001, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt0281822', rating=6.8, numVotes=107}}
+Movie{ID='tt0288617', titleType=VIDEO_GAME, title='Mario Paint', year=1992, runtimeMinutes=0, genres=[COMEDY, FAMILY], rating=Rating{ID='tt0288617', rating=7.0, numVotes=193}}
+Movie{ID='tt0290754', titleType=VIDEO_GAME, title='Mario's Time Machine', year=1993, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0290754', rating=3.8, numVotes=96}}
+Movie{ID='tt0292096', titleType=VIDEO_GAME, title='Mario Golf', year=1999, runtimeMinutes=0, genres=[FAMILY, SPORT], rating=Rating{ID='tt0292096', rating=7.2, numVotes=351}}
+Movie{ID='tt0298052', titleType=VIDEO_GAME, title='Super Mario Sunshine', year=2002, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt0298052', rating=8.1, numVotes=3640}}
+Movie{ID='tt0300181', titleType=VIDEO_GAME, title='Mario Kart: Super Circuit', year=2001, runtimeMinutes=0, genres=[ACTION, FAMILY, SPORT], rating=Rating{ID='tt0300181', rating=7.1, numVotes=668}}
+Movie{ID='tt0301905', titleType=VIDEO_GAME, title='Super Mario Advance', year=2001, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt0301905', rating=7.6, numVotes=323}}
+Movie{ID='tt0309840', titleType=VIDEO_GAME, title='Mario & Wario', year=1993, runtimeMinutes=0, genres=[ACTION, ADVENTURE], rating=Rating{ID='tt0309840', rating=7.0, numVotes=54}}
+Movie{ID='tt0354729', titleType=VIDEO_GAME, title='Mario Party 4', year=2002, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt0354729', rating=7.6, numVotes=618}}
+Movie{ID='tt0364132', titleType=VIDEO_GAME, title='Yoshi's Island: Super Mario Advance 3', year=2002, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt0364132', rating=8.1, numVotes=256}}
+Movie{ID='tt0371816', titleType=VIDEO_GAME, title='Mario Kart: Double Dash!!', year=2003, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt0371816', rating=8.5, numVotes=2342}}
+Movie{ID='tt0378328', titleType=VIDEO_GAME, title='Mario Golf: Toadstool Tour', year=2003, runtimeMinutes=0, genres=[FAMILY, FANTASY, SPORT], rating=Rating{ID='tt0378328', rating=7.7, numVotes=336}}
+Movie{ID='tt0395203', titleType=VIDEO_GAME, title='Mario & Luigi: Superstar Saga', year=2003, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt0395203', rating=8.2, numVotes=493}}
+Movie{ID='tt0400636', titleType=VIDEO_GAME, title='Mario Power Tennis', year=2004, runtimeMinutes=0, genres=[ACTION, FAMILY, SPORT], rating=Rating{ID='tt0400636', rating=7.4, numVotes=339}}
+Movie{ID='tt0412971', titleType=VIDEO_GAME, title='Mario vs. Donkey Kong', year=2004, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0412971', rating=6.9, numVotes=164}}
+Movie{ID='tt0416959', titleType=VIDEO_GAME, title='Mario Pinball Land', year=2004, runtimeMinutes=0, genres=[FANTASY], rating=Rating{ID='tt0416959', rating=4.8, numVotes=68}}
+Movie{ID='tt0419020', titleType=VIDEO_GAME, title='Paper Mario: The Thousand-Year Door', year=2004, runtimeMinutes=0, genres=[ADVENTURE, FANTASY], rating=Rating{ID='tt0419020', rating=8.9, numVotes=1154}}
+Movie{ID='tt0426527', titleType=VIDEO_GAME, title='Mario Party 5', year=2003, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt0426527', rating=7.3, numVotes=443}}
+Movie{ID='tt0438992', titleType=VIDEO_GAME, title='Super Mario 64 DS', year=2004, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt0438992', rating=8.2, numVotes=1687}}
+Movie{ID='tt0461809', titleType=VIDEO_GAME, title='Mario Clash', year=1995, runtimeMinutes=0, genres=[ACTION, ADVENTURE], rating=Rating{ID='tt0461809', rating=4.7, numVotes=70}}
+Movie{ID='tt0469125', titleType=VIDEO_GAME, title='Mario Golf: Advance Tour', year=2004, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt0469125', rating=7.0, numVotes=56}}
+Movie{ID='tt0472540', titleType=VIDEO_GAME, title='Mario's Tennis', year=1995, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt0472540', rating=5.7, numVotes=47}}
+Movie{ID='tt0481949', titleType=VIDEO_GAME, title='Mario Teaches Typing', year=1991, runtimeMinutes=0, genres=[ADVENTURE, FAMILY], rating=Rating{ID='tt0481949', rating=5.2, numVotes=63}}
+Movie{ID='tt0483728', titleType=VIDEO_GAME, title='Mario Superstar Baseball', year=2005, runtimeMinutes=0, genres=[COMEDY, FAMILY, FANTASY], rating=Rating{ID='tt0483728', rating=7.4, numVotes=263}}
+Movie{ID='tt0484859', titleType=VIDEO_GAME, title='Mario & Luigi: Partners in Time', year=2005, runtimeMinutes=0, genres=[ADVENTURE, COMEDY, FAMILY], rating=Rating{ID='tt0484859', rating=7.8, numVotes=403}}
+Movie{ID='tt0496536', titleType=VIDEO_GAME, title='Mario Kart DS', year=2005, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0496536', rating=8.0, numVotes=2651}}
+Movie{ID='tt0497448', titleType=VIDEO_GAME, title='Super Mario Strikers', year=2005, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt0497448', rating=7.7, numVotes=385}}
+Movie{ID='tt0818506', titleType=VIDEO_GAME, title='New Super Mario Bros.', year=2006, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0818506', rating=8.2, numVotes=3399}}
+Movie{ID='tt0872115', titleType=VIDEO_GAME, title='Mario Kart Arcade GP', year=2005, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt0872115', rating=7.2, numVotes=138}}
+Movie{ID='tt0879874', titleType=VIDEO_GAME, title='Super Mario Galaxy', year=2007, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt0879874', rating=9.1, numVotes=6902}}
+Movie{ID='tt10110326', titleType=VIDEO_GAME, title='Mario & Sonic at the Olympic Games: Tokyo 2020', year=2019, runtimeMinutes=0, genres=[FAMILY, SPORT], rating=Rating{ID='tt10110326', rating=6.3, numVotes=196}}
+Movie{ID='tt10585236', titleType=VIDEO_GAME, title='Dr. Mario World', year=2019, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt10585236', rating=5.3, numVotes=43}}
+Movie{ID='tt1107264', titleType=VIDEO_GAME, title='Mario & Sonic at the Olympic Games', year=2007, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt1107264', rating=6.2, numVotes=639}}
+Movie{ID='tt1110280', titleType=VIDEO_GAME, title='Super Paper Mario', year=2007, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt1110280', rating=7.8, numVotes=735}}
+Movie{ID='tt11361000', titleType=VIDEO_GAME, title='Super Mario Flash', year=2007, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt11361000', rating=7.6, numVotes=15}}
+Movie{ID='tt1143906', titleType=VIDEO_GAME, title='Mario Strikers Charged', year=2007, runtimeMinutes=0, genres=[ACTION, FANTASY, SPORT], rating=Rating{ID='tt1143906', rating=7.4, numVotes=374}}
+Movie{ID='tt1225687', titleType=VIDEO_GAME, title='Mario Kart Wii', year=2008, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt1225687', rating=8.4, numVotes=5173}}
+Movie{ID='tt12321538', titleType=VIDEO_GAME, title='Paper Mario: The Origami King', year=2020, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt12321538', rating=7.4, numVotes=398}}
+Movie{ID='tt1234691', titleType=VIDEO_GAME, title='Mario Tennis: Power Tour', year=2005, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt1234691', rating=7.0, numVotes=71}}
+Movie{ID='tt1250844', titleType=VIDEO_GAME, title='Mario Super Sluggers', year=2008, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt1250844', rating=7.8, numVotes=299}}
+Movie{ID='tt1278404', titleType=VIDEO_GAME, title='Mario Party 6', year=2004, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt1278404', rating=7.7, numVotes=396}}
+Movie{ID='tt1287342', titleType=VIDEO_GAME, title='Mario Party 8', year=2007, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt1287342', rating=6.9, numVotes=984}}
+Movie{ID='tt13026416', titleType=VIDEO_GAME, title='Super Mario 3D World + Bowser's Fury', year=2021, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt13026416', rating=8.5, numVotes=1167}}
+Movie{ID='tt13027276', titleType=VIDEO_GAME, title='Super Mario Bros. 35', year=2020, runtimeMinutes=0, genres=[ACTION, FANTASY], rating=Rating{ID='tt13027276', rating=6.7, numVotes=89}}
+Movie{ID='tt13333024', titleType=VIDEO_GAME, title='Mario Kart Live: Home Circuit', year=2020, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt13333024', rating=6.5, numVotes=58}}
+Movie{ID='tt13488368', titleType=VIDEO_GAME, title='Game and Watch: Super Mario Bros.', year=2020, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt13488368', rating=6.8, numVotes=33}}
+Movie{ID='tt13834764', titleType=VIDEO_GAME, title='Super Mario World: Return to Dinosaur Land', year=2006, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt13834764', rating=0.0, numVotes=0}}
+Movie{ID='tt14075266', titleType=VIDEO_GAME, title='Mario Golf: Super Rush', year=2021, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt14075266', rating=6.6, numVotes=185}}
+Movie{ID='tt14821158', titleType=VIDEO_GAME, title='Mario Kart Arcade GP VR', year=2017, runtimeMinutes=0, genres=[ACTION, SPORT], rating=Rating{ID='tt14821158', rating=7.0, numVotes=14}}
+Movie{ID='tt14866060', titleType=VIDEO_GAME, title='Mario + Rabbids: Sparks of Hope', year=2022, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt14866060', rating=7.6, numVotes=201}}
+Movie{ID='tt14883810', titleType=VIDEO_GAME, title='Mario Party Superstars', year=2021, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt14883810', rating=7.7, numVotes=493}}
+Movie{ID='tt1493026', titleType=VIDEO_GAME, title='New Super Mario Bros. Wii', year=2009, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt1493026', rating=8.2, numVotes=3817}}
+Movie{ID='tt15361104', titleType=VIDEO_GAME, title='Unfair Mario', year=2011, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt15361104', rating=5.7, numVotes=13}}
+Movie{ID='tt15361546', titleType=VIDEO_GAME, title='Cat Mario', year=2007, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt15361546', rating=6.7, numVotes=32}}
+Movie{ID='tt15372948', titleType=VIDEO_GAME, title='Super Mario Star Road', year=2011, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt15372948', rating=0.0, numVotes=0}}
+Movie{ID='tt15566094', titleType=VIDEO_GAME, title='GoldenEye with Mario Characters', year=2018, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt15566094', rating=0.0, numVotes=0}}
+Movie{ID='tt1571573', titleType=VIDEO_GAME, title='Hotel Mario', year=1994, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt1571573', rating=5.1, numVotes=595}}
+Movie{ID='tt16159516', titleType=VIDEO_GAME, title='Super Mario World DX', year=2002, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt16159516', rating=0.0, numVotes=0}}
+Movie{ID='tt16159736', titleType=VIDEO_GAME, title='Super Mario Bros. Print World', year=1991, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt16159736', rating=0.0, numVotes=0}}
+Movie{ID='tt16159884', titleType=VIDEO_GAME, title='Super Mario Bros.', year=2010, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt16159884', rating=0.0, numVotes=0}}
+Movie{ID='tt16159954', titleType=VIDEO_GAME, title='Mario', year=2010, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt16159954', rating=0.0, numVotes=0}}
+Movie{ID='tt16477168', titleType=VIDEO_GAME, title='Super Mario Bros. - Nintendo Mini Classics', year=1998, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt16477168', rating=0.0, numVotes=0}}
+Movie{ID='tt1698007', titleType=VIDEO_GAME, title='Super Mario Galaxy 2', year=2010, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt1698007', rating=9.0, numVotes=3411}}
+Movie{ID='tt17038114', titleType=VIDEO_GAME, title='New Super Mario World 2: Around the World', year=2019, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt17038114', rating=0.0, numVotes=0}}
+Movie{ID='tt1772975', titleType=VIDEO_GAME, title='Mario & Sonic at the Olympic Winter Games', year=2009, runtimeMinutes=0, genres=[FAMILY, SPORT], rating=Rating{ID='tt1772975', rating=6.6, numVotes=496}}
+Movie{ID='tt1814824', titleType=VIDEO_GAME, title='Paper Mario: Sticker Star', year=2012, runtimeMinutes=0, genres=[ADVENTURE, FANTASY], rating=Rating{ID='tt1814824', rating=5.4, numVotes=255}}
+Movie{ID='tt18184350', titleType=VIDEO_GAME, title='Mario Strikers: Battle League', year=2022, runtimeMinutes=0, genres=[ACTION, FANTASY, SPORT], rating=Rating{ID='tt18184350', rating=6.3, numVotes=174}}
+Movie{ID='tt1856719', titleType=VIDEO_GAME, title='Mario Party 7', year=2005, runtimeMinutes=0, genres=[ACTION, FANTASY], rating=Rating{ID='tt1856719', rating=7.5, numVotes=409}}
+Movie{ID='tt18573802', titleType=VIDEO_GAME, title='Super Mario World: Super Mario Advance 2', year=2001, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt18573802', rating=8.4, numVotes=97}}
+Movie{ID='tt18688458', titleType=VIDEO_GAME, title='Super Mario Advance 4: Super Mario Bros. 3', year=2003, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt18688458', rating=8.1, numVotes=110}}
+Movie{ID='tt1907720', titleType=VIDEO_GAME, title='Mario & Sonic at the London 2012 Olympic Games', year=2011, runtimeMinutes=0, genres=[ACTION, COMEDY, FAMILY], rating=Rating{ID='tt1907720', rating=6.8, numVotes=324}}
+Movie{ID='tt1921013', titleType=VIDEO_GAME, title='Mario Sports Mix', year=2010, runtimeMinutes=0, genres=[FAMILY, SPORT], rating=Rating{ID='tt1921013', rating=7.3, numVotes=242}}
+Movie{ID='tt19729988', titleType=VIDEO_GAME, title='Super Mario Bros. Deluxe', year=1999, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt19729988', rating=7.3, numVotes=51}}
+Movie{ID='tt2028518', titleType=VIDEO_GAME, title='Mario vs. Donkey Kong: Mini-Land Mayhem!', year=2010, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt2028518', rating=7.0, numVotes=72}}
+Movie{ID='tt2073610', titleType=VIDEO_GAME, title='Mario & Luigi: Bowser's Inside Story', year=2009, runtimeMinutes=0, genres=[ADVENTURE, COMEDY, FANTASY], rating=Rating{ID='tt2073610', rating=8.3, numVotes=490}}
+Movie{ID='tt2076943', titleType=VIDEO_GAME, title='Super Mario 3D Land', year=2011, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt2076943', rating=8.1, numVotes=2419}}
+Movie{ID='tt2080342', titleType=VIDEO_GAME, title='Mario Kart 7', year=2011, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt2080342', rating=8.0, numVotes=2511}}
+Movie{ID='tt2116913', titleType=VIDEO_GAME, title='Mario Tennis Open', year=2012, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt2116913', rating=6.8, numVotes=191}}
+Movie{ID='tt2139571', titleType=VIDEO_GAME, title='I Am a Teacher: Super Mario's Sweater', year=1986, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt2139571', rating=0.0, numVotes=0}}
+Movie{ID='tt2150205', titleType=VIDEO_GAME, title='Dance Dance Revolution: Mario Mix', year=2005, runtimeMinutes=0, genres=[FAMILY, FANTASY, MUSIC], rating=Rating{ID='tt2150205', rating=6.7, numVotes=86}}
+Movie{ID='tt2186949', titleType=VIDEO_GAME, title='Mario Party 9', year=2012, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt2186949', rating=6.5, numVotes=514}}
+Movie{ID='tt2200602', titleType=VIDEO_GAME, title='Mario's Picross', year=1995, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt2200602', rating=6.1, numVotes=44}}
+Movie{ID='tt2227980', titleType=VIDEO_GAME, title='Mario's Early Years! Fun with Numbers', year=1994, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt2227980', rating=2.5, numVotes=45}}
+Movie{ID='tt2228324', titleType=VIDEO_GAME, title='Mario no sûpâ pikurosu', year=1995, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt2228324', rating=6.4, numVotes=46}}
+Movie{ID='tt2255452', titleType=VIDEO_GAME, title='Mario's Early Years! Preschool Fun', year=1994, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt2255452', rating=2.3, numVotes=47}}
+Movie{ID='tt2263828', titleType=VIDEO_GAME, title='Mario's Early Years! Fun with Letters', year=1994, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt2263828', rating=2.2, numVotes=41}}
+Movie{ID='tt2305604', titleType=VIDEO_GAME, title='New Super Mario Bros. 2', year=2012, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt2305604', rating=7.6, numVotes=2015}}
+Movie{ID='tt23117624', titleType=VIDEO_GAME, title='Super Mario Land 3D', year=2018, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt23117624', rating=0.0, numVotes=0}}
+Movie{ID='tt2386454', titleType=VIDEO_GAME, title='New Super Mario Bros. U', year=2012, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt2386454', rating=7.7, numVotes=1864}}
+Movie{ID='tt2470742', titleType=VIDEO_GAME, title='Excitebike: Bun Bun Mario Battle Stadium', year=1997, runtimeMinutes=0, genres=[FANTASY, SPORT], rating=Rating{ID='tt2470742', rating=4.5, numVotes=7}}
+Movie{ID='tt2470746', titleType=VIDEO_GAME, title='BS Sûpâ Mario USA', year=1996, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt2470746', rating=0.0, numVotes=0}}
+Movie{ID='tt25447926', titleType=VIDEO_GAME, title='Mario & Luigi', year=1994, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt25447926', rating=0.0, numVotes=0}}
+Movie{ID='tt2603560', titleType=VIDEO_GAME, title='Mario Lemieux Hockey', year=1991, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt2603560', rating=4.4, numVotes=12}}
+Movie{ID='tt27011793', titleType=VIDEO_GAME, title='Mario+Rabbids Sparks of Hope: Tower of Doooom!', year=2023, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt27011793', rating=8.4, numVotes=20}}
+Movie{ID='tt27217712', titleType=VIDEO_GAME, title='Untitled Mario Baseball Game for Nintendo Switch', year=0, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt27217712', rating=0.0, numVotes=0}}
+Movie{ID='tt27217793', titleType=VIDEO_GAME, title='Mario vs. Donkey Kong', year=2024, runtimeMinutes=0, genres=[ADVENTURE, FAMILY], rating=Rating{ID='tt27217793', rating=6.8, numVotes=101}}
+Movie{ID='tt2758412', titleType=VIDEO_GAME, title='Mario and Donkey Kong: Minis on the Move', year=2013, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt2758412', rating=6.1, numVotes=32}}
+Movie{ID='tt28144737', titleType=VIDEO_GAME, title='Super Mario Bros. Wonder', year=2023, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt28144737', rating=8.5, numVotes=1240}}
+Movie{ID='tt28144838', titleType=VIDEO_GAME, title='Super Mario RPG', year=2023, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt28144838', rating=8.1, numVotes=294}}
+Movie{ID='tt28144941', titleType=VIDEO_GAME, title='Mario+Rabbids Sparks of Hope: The Last Spark Hunter', year=2023, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt28144941', rating=7.9, numVotes=24}}
+Movie{ID='tt28154660', titleType=VIDEO_GAME, title='Super Dr. Mario', year=0, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt28154660', rating=0.0, numVotes=0}}
+Movie{ID='tt28541389', titleType=VIDEO_GAME, title='Mario+Rabbids Sparks of Hope: Rayman in the Phantom Show', year=2023, runtimeMinutes=0, genres=[ACTION, ADVENTURE, ANIMATION], rating=Rating{ID='tt28541389', rating=8.1, numVotes=26}}
+Movie{ID='tt2882136', titleType=VIDEO_GAME, title='Mario & Luigi: Dream Team', year=2013, runtimeMinutes=0, genres=[ADVENTURE, COMEDY, FANTASY], rating=Rating{ID='tt2882136', rating=7.4, numVotes=541}}
+Movie{ID='tt29143535', titleType=VIDEO_GAME, title='Paper Mario: The Thousand-Year Door', year=2024, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt29143535', rating=8.3, numVotes=251}}
+Movie{ID='tt29359426', titleType=VIDEO_GAME, title='Super Mario 3D All-Stars', year=2020, runtimeMinutes=0, genres=[ADVENTURE, FANTASY], rating=Rating{ID='tt29359426', rating=8.5, numVotes=120}}
+Movie{ID='tt29477077', titleType=VIDEO_GAME, title='Untitled Super Mario 3D Game', year=0, runtimeMinutes=0, genres=[ACTION, ADVENTURE], rating=Rating{ID='tt29477077', rating=0.0, numVotes=0}}
+Movie{ID='tt2959678', titleType=VIDEO_GAME, title='Mario & Sonic at the Sochi 2014 Olympic Winter Games', year=2013, runtimeMinutes=0, genres=[FAMILY, SPORT], rating=Rating{ID='tt2959678', rating=5.4, numVotes=147}}
+Movie{ID='tt2965774', titleType=VIDEO_GAME, title='Mario Golf: World Tour', year=2014, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt2965774', rating=7.8, numVotes=176}}
+Movie{ID='tt2975604', titleType=VIDEO_GAME, title='Mario Kart 8', year=2014, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt2975604', rating=8.5, numVotes=2861}}
+Movie{ID='tt2980042', titleType=VIDEO_GAME, title='Super Mario 3D World', year=2013, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt2980042', rating=8.5, numVotes=3075}}
+Movie{ID='tt30443097', titleType=VIDEO_GAME, title='Super Mario Flash 2', year=2012, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt30443097', rating=7.8, numVotes=6}}
+Movie{ID='tt3089776', titleType=VIDEO_GAME, title='Mario Teaches Typing 2', year=1996, runtimeMinutes=0, genres=[ADVENTURE, FAMILY], rating=Rating{ID='tt3089776', rating=3.4, numVotes=41}}
+Movie{ID='tt3187128', titleType=VIDEO_GAME, title='Dr. Mario Online Rx', year=2008, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt3187128', rating=5.3, numVotes=27}}
+Movie{ID='tt31913199', titleType=VIDEO_GAME, title='Super Mario Bros. CD', year=2025, runtimeMinutes=0, genres=[ADVENTURE, ANIMATION, FANTASY], rating=Rating{ID='tt31913199', rating=0.0, numVotes=0}}
+Movie{ID='tt32064141', titleType=VIDEO_GAME, title='Paper Mario 3D Land', year=2014, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt32064141', rating=0.0, numVotes=0}}
+Movie{ID='tt32160553', titleType=VIDEO_GAME, title='Mario & Sonic at the Olympic Games Tokyo 2020 Arcade Edition', year=2020, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt32160553', rating=6.4, numVotes=10}}
+Movie{ID='tt32160616', titleType=VIDEO_GAME, title='Mario & Sonic at the Rio 2016 Olympic Games Arcade Edition', year=2016, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt32160616', rating=0.0, numVotes=0}}
+Movie{ID='tt32165224', titleType=VIDEO_GAME, title='Mario Kart: Koopa's Challenge - Super Nintendo World', year=2021, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt32165224', rating=0.0, numVotes=0}}
+Movie{ID='tt32166508', titleType=VIDEO_GAME, title='Mario Kart: Bowser's Challenge', year=2021, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt32166508', rating=0.0, numVotes=0}}
+Movie{ID='tt32215118', titleType=VIDEO_GAME, title='Mario Bros Classic', year=2003, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt32215118', rating=0.0, numVotes=0}}
+Movie{ID='tt32231664', titleType=VIDEO_GAME, title='Mario Kart World', year=2025, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt32231664', rating=8.2, numVotes=411}}
+Movie{ID='tt32318710', titleType=VIDEO_GAME, title='Super Mario Odyssey: Luigi's Balloon World', year=2018, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt32318710', rating=0.0, numVotes=0}}
+Movie{ID='tt32331944', titleType=VIDEO_GAME, title='Super Mario Maker 3', year=0, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt32331944', rating=0.0, numVotes=0}}
+Movie{ID='tt32441214', titleType=VIDEO_GAME, title='Super Mario Party Jamboree', year=2024, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt32441214', rating=7.6, numVotes=231}}
+Movie{ID='tt32493841', titleType=VIDEO_GAME, title='Untitled Super Mario Bros. Game', year=0, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt32493841', rating=0.0, numVotes=0}}
+Movie{ID='tt32607382', titleType=VIDEO_GAME, title='Untitled Non-Olympic Mario & Sonic Crossover Game', year=0, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt32607382', rating=0.0, numVotes=0}}
+Movie{ID='tt32642277', titleType=VIDEO_GAME, title='Mario & Luigi: Brothership', year=2024, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt32642277', rating=7.4, numVotes=106}}
+Movie{ID='tt32904132', titleType=VIDEO_GAME, title='Shotgun Mario 64', year=2023, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt32904132', rating=0.0, numVotes=0}}
+Movie{ID='tt3313036', titleType=VIDEO_GAME, title='Mario Party: Island Tour', year=2013, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt3313036', rating=5.7, numVotes=425}}
+Movie{ID='tt3389670', titleType=VIDEO_GAME, title='Mario vs. Donkey Kong 2: March of the Minis', year=2006, runtimeMinutes=0, genres=[ACTION, COMEDY, FAMILY], rating=Rating{ID='tt3389670', rating=6.9, numVotes=74}}
+Movie{ID='tt3390576', titleType=VIDEO_GAME, title='Mario vs. Donkey Kong: Minis March Again!', year=2009, runtimeMinutes=0, genres=[ACTION, COMEDY], rating=Rating{ID='tt3390576', rating=6.4, numVotes=30}}
+Movie{ID='tt3396300', titleType=VIDEO_GAME, title='Dr. Mario Express', year=2008, runtimeMinutes=0, genres=[FAMILY, MUSICAL], rating=Rating{ID='tt3396300', rating=5.4, numVotes=28}}
+Movie{ID='tt33996460', titleType=VIDEO_GAME, title='Mario and the Lost Kingdom', year=2024, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt33996460', rating=0.0, numVotes=0}}
+Movie{ID='tt3404206', titleType=VIDEO_GAME, title='Mario Bros. Special', year=1984, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt3404206', rating=4.6, numVotes=22}}
+Movie{ID='tt3410220', titleType=VIDEO_GAME, title='Mario Kart Arcade GP 2', year=2007, runtimeMinutes=0, genres=[ACTION, COMEDY, FAMILY], rating=Rating{ID='tt3410220', rating=7.0, numVotes=54}}
+Movie{ID='tt3410580', titleType=VIDEO_GAME, title='Punch Ball Mario Bros.', year=1984, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt3410580', rating=5.6, numVotes=26}}
+Movie{ID='tt3415252', titleType=VIDEO_GAME, title='Dr. Mario & Puzzle League', year=2005, runtimeMinutes=0, genres=[FAMILY, SCI_FI, SHORT], rating=Rating{ID='tt3415252', rating=5.4, numVotes=25}}
+Movie{ID='tt3417312', titleType=VIDEO_GAME, title='Super Mario Bros. Special', year=1986, runtimeMinutes=0, genres=[ACTION, ADVENTURE], rating=Rating{ID='tt3417312', rating=5.4, numVotes=28}}
+Movie{ID='tt3417424', titleType=VIDEO_GAME, title='Super Mario Bros. & Friends: When I Grow Up', year=1992, runtimeMinutes=0, genres=[COMEDY, FAMILY, FANTASY], rating=Rating{ID='tt3417424', rating=4.8, numVotes=12}}
+Movie{ID='tt3419938', titleType=VIDEO_GAME, title='Mario's Game Gallery', year=1995, runtimeMinutes=0, genres=[COMEDY, FAMILY, FANTASY], rating=Rating{ID='tt3419938', rating=4.7, numVotes=33}}
+Movie{ID='tt3422316', titleType=VIDEO_GAME, title='I Am a Teacher: Super Mario No Sweater', year=1986, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3422316', rating=3.2, numVotes=21}}
+Movie{ID='tt3422332', titleType=VIDEO_GAME, title='All Night Nippon Super Mario Bros.', year=1986, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt3422332', rating=5.6, numVotes=23}}
+Movie{ID='tt3424542', titleType=VIDEO_GAME, title='Kaette Kita Mario Bros.', year=1988, runtimeMinutes=0, genres=[ACTION, COMEDY, FAMILY], rating=Rating{ID='tt3424542', rating=4.4, numVotes=18}}
+Movie{ID='tt3429360', titleType=VIDEO_GAME, title='Mario No Photopi', year=1998, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3429360', rating=4.6, numVotes=10}}
+Movie{ID='tt3430366', titleType=VIDEO_GAME, title='Mario Artist: Communication Kit', year=2000, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3430366', rating=4.8, numVotes=10}}
+Movie{ID='tt3431398', titleType=VIDEO_GAME, title='Mario Artist: Paint Studio', year=1999, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3431398', rating=5.4, numVotes=19}}
+Movie{ID='tt3432678', titleType=VIDEO_GAME, title='Mario Artist: Polygon Studio', year=2000, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3432678', rating=6.2, numVotes=15}}
+Movie{ID='tt3436080', titleType=VIDEO_GAME, title='Mario Artist: Talent Studio', year=2000, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3436080', rating=6.2, numVotes=14}}
+Movie{ID='tt3437398', titleType=VIDEO_GAME, title='BS Super Mario Collection', year=1997, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt3437398', rating=0.0, numVotes=0}}
+Movie{ID='tt3442060', titleType=VIDEO_GAME, title='UNDAKE30 Same Game Daisakusen Mario Version', year=1995, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt3442060', rating=3.6, numVotes=9}}
+Movie{ID='tt34429969', titleType=VIDEO_GAME, title='Mario in Animatronic Horror: Remastered', year=0, runtimeMinutes=0, genres=[HORROR], rating=Rating{ID='tt34429969', rating=0.0, numVotes=0}}
+Movie{ID='tt3443718', titleType=VIDEO_GAME, title='Mario Calculator', year=2009, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3443718', rating=0.0, numVotes=0}}
+Movie{ID='tt3444096', titleType=VIDEO_GAME, title='Mario Clock', year=2009, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt3444096', rating=5.4, numVotes=7}}
+Movie{ID='tt3449460', titleType=VIDEO_GAME, title='Mario Bros.', year=1983, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt3449460', rating=6.9, numVotes=30}}
+Movie{ID='tt3449548', titleType=VIDEO_GAME, title='Mario's Cement Factory', year=1983, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt3449548', rating=4.8, numVotes=21}}
+Movie{ID='tt3449586', titleType=VIDEO_GAME, title='Super Mario Fushigi No Janjan Land', year=2003, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt3449586', rating=0.0, numVotes=0}}
+Movie{ID='tt3449668', titleType=VIDEO_GAME, title='Super Mario Fushigi No Korokoro Party', year=2004, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt3449668', rating=5.9, numVotes=10}}
+Movie{ID='tt3456342', titleType=VIDEO_GAME, title='Super Mario Fushigi No Korokoro Party 2', year=2005, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt3456342', rating=6.2, numVotes=11}}
+Movie{ID='tt3458294', titleType=VIDEO_GAME, title='Mario Party Fushigi No Korokoro Catcher', year=2009, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt3458294', rating=6.8, numVotes=7}}
+Movie{ID='tt3459138', titleType=VIDEO_GAME, title='Mario Party Fushigi No Korokoro Catcher 2', year=2013, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt3459138', rating=7.4, numVotes=8}}
+Movie{ID='tt3462816', titleType=VIDEO_GAME, title='Mario Family', year=2001, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3462816', rating=0.0, numVotes=0}}
+Movie{ID='tt3463548', titleType=VIDEO_GAME, title='Mario Party Kurukuru! Carnival', year=2012, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt3463548', rating=0.0, numVotes=0}}
+Movie{ID='tt3465904', titleType=VIDEO_GAME, title='New Super Mario Bros. Wii Coin World', year=2011, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt3465904', rating=6.7, numVotes=11}}
+Movie{ID='tt3466322', titleType=VIDEO_GAME, title='Mario Undôkai', year=1993, runtimeMinutes=0, genres=[FAMILY, FANTASY, SPORT], rating=Rating{ID='tt3466322', rating=0.0, numVotes=0}}
+Movie{ID='tt3468460', titleType=VIDEO_GAME, title='Mario Roulette', year=1991, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt3468460', rating=2.8, numVotes=8}}
+Movie{ID='tt3469658', titleType=VIDEO_GAME, title='Bûbû Mario', year=1993, runtimeMinutes=0, genres=[FAMILY, FANTASY], rating=Rating{ID='tt3469658', rating=0.0, numVotes=0}}
+Movie{ID='tt3480120', titleType=VIDEO_GAME, title='Photos with Mario', year=2013, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt3480120', rating=0.0, numVotes=0}}
+Movie{ID='tt34814963', titleType=VIDEO_GAME, title='Super Mario Smell My Finger!', year=0, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt34814963', rating=0.0, numVotes=0}}
+Movie{ID='tt3483388', titleType=VIDEO_GAME, title='Mario's Bombs Away', year=1983, runtimeMinutes=0, genres=[WAR], rating=Rating{ID='tt3483388', rating=4.3, numVotes=22}}
+Movie{ID='tt3487974', titleType=VIDEO_GAME, title='Super Mario Bros.', year=1986, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt3487974', rating=7.7, numVotes=68}}
+Movie{ID='tt3488322', titleType=VIDEO_GAME, title='Mario the Juggler', year=1991, runtimeMinutes=0, genres=[FAMILY], rating=Rating{ID='tt3488322', rating=3.7, numVotes=12}}
+Movie{ID='tt3496494', titleType=VIDEO_GAME, title='Mario Party Advance', year=2005, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt3496494', rating=4.5, numVotes=69}}
+Movie{ID='tt3498964', titleType=VIDEO_GAME, title='Mario Party DS', year=2007, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt3498964', rating=7.4, numVotes=654}}
+Movie{ID='tt3499522', titleType=VIDEO_GAME, title='Game & Watch: Mario's Cement Factory', year=1983, runtimeMinutes=0, genres=[ACTION, FAMILY], rating=Rating{ID='tt3499522', rating=4.7, numVotes=16}}
+Movie{ID='tt3501272', titleType=VIDEO_GAME, title='Mario Hoops 3-on-3', year=2006, runtimeMinutes=0, genres=[ACTION, FAMILY, FANTASY], rating=Rating{ID='tt3501272', rating=6.8, numVotes=94}}
+Movie{ID='tt3502228', titleType=VIDEO_GAME, title='Mario Party-e', year=2003, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt3502228', rating=5.6, numVotes=21}}
+Movie{ID='tt3503456', titleType=VIDEO_GAME, title='Mario Kart Arcade GP DX', year=2013, runtimeMinutes=0, genres=[ACTION, COMEDY, FAMILY], rating=Rating{ID='tt3503456', rating=7.5, numVotes=65}}
+Movie{ID='tt35039679', titleType=VIDEO_GAME, title='Super Mario Dolor', year=2019, runtimeMinutes=0, genres=[HORROR], rating=Rating{ID='tt35039679', rating=0.0, numVotes=0}}
+Movie{ID='tt3507582', titleType=VIDEO_GAME, title='VS. Super Mario Bros.', year=1986, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt3507582', rating=7.0, numVotes=51}}
+Movie{ID='tt35136935', titleType=VIDEO_GAME, title='Death of Marionette', year=2024, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt35136935', rating=0.0, numVotes=0}}
+Movie{ID='tt36293830', titleType=VIDEO_GAME, title='Mario in Animatronic Horror', year=2017, runtimeMinutes=0, genres=[COMEDY, HORROR, THRILLER], rating=Rating{ID='tt36293830', rating=0.0, numVotes=0}}
+Movie{ID='tt37272800', titleType=VIDEO_GAME, title='Mario the Music Box', year=2015, runtimeMinutes=0, genres=[HORROR, MYSTERY], rating=Rating{ID='tt37272800', rating=0.0, numVotes=0}}
+Movie{ID='tt37579277', titleType=VIDEO_GAME, title='Marion Surgical Robot Simulator', year=2025, runtimeMinutes=0, genres=[SCI_FI], rating=Rating{ID='tt37579277', rating=0.0, numVotes=0}}
+Movie{ID='tt37593215', titleType=VIDEO_GAME, title='Mario Forever', year=2003, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt37593215', rating=0.0, numVotes=0}}
+Movie{ID='tt37725094', titleType=VIDEO_GAME, title='Mario Cart', year=2003, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt37725094', rating=0.0, numVotes=0}}
+Movie{ID='tt37764467', titleType=VIDEO_GAME, title='Mario.exe', year=2015, runtimeMinutes=0, genres=[ADVENTURE, DRAMA, FANTASY], rating=Rating{ID='tt37764467', rating=0.0, numVotes=0}}
+Movie{ID='tt3794246', titleType=VIDEO_GAME, title='Super Mario Maker', year=2015, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt3794246', rating=8.0, numVotes=1210}}
+Movie{ID='tt3811654', titleType=VIDEO_GAME, title='Mario Party 10', year=2015, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt3811654', rating=6.0, numVotes=446}}
+Movie{ID='tt38123600', titleType=VIDEO_GAME, title='Super Mario Party Jamboree: Nintendo Switch 2 Edition + Jamboree TV', year=2025, runtimeMinutes=0, genres=[ACTION, GAME_SHOW], rating=Rating{ID='tt38123600', rating=0.0, numVotes=0}}
+Movie{ID='tt38275354', titleType=VIDEO_GAME, title='Super Mario Bros. Wonder Nintendo Switch 2 Edition + Meetup in Bellabel Park', year=2026, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt38275354', rating=0.0, numVotes=0}}
+Movie{ID='tt38280093', titleType=VIDEO_GAME, title='Mario Tennis Fever', year=2026, runtimeMinutes=0, genres=[ACTION, FAMILY, SPORT], rating=Rating{ID='tt38280093', rating=0.0, numVotes=0}}
+Movie{ID='tt38410850', titleType=VIDEO_GAME, title='Dr. Mario', year=1990, runtimeMinutes=0, genres=[ACTION, FAMILY], rating=Rating{ID='tt38410850', rating=0.0, numVotes=0}}
+Movie{ID='tt4417916', titleType=VIDEO_GAME, title='Mario vs. Donkey Kong: Tipping Stars', year=2015, runtimeMinutes=0, genres=[ACTION, ADVENTURE], rating=Rating{ID='tt4417916', rating=6.1, numVotes=32}}
+Movie{ID='tt4686006', titleType=VIDEO_GAME, title='Mario & Sonic at the Rio 2016 Olympic Games', year=2016, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt4686006', rating=5.9, numVotes=128}}
+Movie{ID='tt5289322', titleType=VIDEO_GAME, title='Mario & Luigi: Paper Jam', year=2015, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt5289322', rating=7.1, numVotes=155}}
+Movie{ID='tt5289422', titleType=VIDEO_GAME, title='Mario Tennis: Ultra Smash', year=2015, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt5289422', rating=4.8, numVotes=97}}
+Movie{ID='tt5523368', titleType=VIDEO_GAME, title='Paper Mario: Color Splash', year=2016, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt5523368', rating=6.8, numVotes=181}}
+Movie{ID='tt5930858', titleType=VIDEO_GAME, title='Super Mario Galaxy Repainted', year=2015, runtimeMinutes=0, genres=[COMEDY, SCI_FI], rating=Rating{ID='tt5930858', rating=7.1, numVotes=19}}
+Movie{ID='tt6008962', titleType=VIDEO_GAME, title='Mario Party: Star Rush', year=2016, runtimeMinutes=0, genres=[ACTION, SPORT], rating=Rating{ID='tt6008962', rating=6.8, numVotes=170}}
+Movie{ID='tt6043360', titleType=VIDEO_GAME, title='Super Mario Run', year=2016, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt6043360', rating=6.0, numVotes=540}}
+Movie{ID='tt6116988', titleType=VIDEO_GAME, title='Super Mario World', year=1995, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt6116988', rating=7.8, numVotes=20}}
+Movie{ID='tt6218580', titleType=VIDEO_GAME, title='Mario Sports Superstars', year=2017, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt6218580', rating=8.0, numVotes=94}}
+Movie{ID='tt6304806', titleType=VIDEO_GAME, title='Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition', year=2015, runtimeMinutes=0, genres=[ADVENTURE, FAMILY, FANTASY], rating=Rating{ID='tt6304806', rating=6.6, numVotes=37}}
+Movie{ID='tt6374772', titleType=VIDEO_GAME, title='Mario Andretti's Racing Challenge', year=1991, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt6374772', rating=0.0, numVotes=0}}
+Movie{ID='tt6375640', titleType=VIDEO_GAME, title='Mario Andretti Racing', year=1994, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt6375640', rating=5.9, numVotes=16}}
+Movie{ID='tt6423026', titleType=VIDEO_GAME, title='Super Mario Odyssey', year=2017, runtimeMinutes=0, genres=[ACTION, ADVENTURE, ANIMATION], rating=Rating{ID='tt6423026', rating=9.1, numVotes=6508}}
+Movie{ID='tt6484760', titleType=VIDEO_GAME, title='Super Mario Maker for Nintendo 3DS', year=2016, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt6484760', rating=6.9, numVotes=102}}
+Movie{ID='tt6608826', titleType=VIDEO_GAME, title='Mario Kart 8 Deluxe', year=2017, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt6608826', rating=8.6, numVotes=4375}}
+Movie{ID='tt7009286', titleType=VIDEO_GAME, title='Mario + Rabbids Kingdom Battle', year=2017, runtimeMinutes=0, genres=[ACTION, ADVENTURE, ANIMATION], rating=Rating{ID='tt7009286', rating=7.4, numVotes=651}}
+Movie{ID='tt7445770', titleType=VIDEO_GAME, title='Mario & Luigi: Superstar Saga + Bowser's Minions', year=2017, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt7445770', rating=7.9, numVotes=108}}
+Movie{ID='tt7875960', titleType=VIDEO_GAME, title='Mario Tennis Aces', year=2018, runtimeMinutes=0, genres=[ACTION, SPORT], rating=Rating{ID='tt7875960', rating=7.1, numVotes=424}}
+Movie{ID='tt7950452', titleType=VIDEO_GAME, title='Mario Kart Tour', year=2019, runtimeMinutes=0, genres=[ACTION, FAMILY, SPORT], rating=Rating{ID='tt7950452', rating=5.4, numVotes=357}}
+Movie{ID='tt7976578', titleType=VIDEO_GAME, title='Mario Party: The Top 100', year=2017, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt7976578', rating=5.2, numVotes=71}}
+Movie{ID='tt8409610', titleType=VIDEO_GAME, title='Super Mario 64: Special for You', year=2015, runtimeMinutes=0, genres=[HORROR], rating=Rating{ID='tt8409610', rating=5.3, numVotes=8}}
+Movie{ID='tt8589722', titleType=VIDEO_GAME, title='Super Mario Party', year=2018, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt8589722', rating=7.2, numVotes=945}}
+Movie{ID='tt8677132', titleType=VIDEO_GAME, title='Mario + Rabbids Kingdom Battle: Donkey Kong Adventure', year=2018, runtimeMinutes=0, genres=[ACTION, ADVENTURE, ANIMATION], rating=Rating{ID='tt8677132', rating=7.8, numVotes=81}}
+Movie{ID='tt8689956', titleType=VIDEO_GAME, title='Super Mario All Stars 6 - Trilogy Worlds', year=2011, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt8689956', rating=0.0, numVotes=0}}
+Movie{ID='tt9058054', titleType=VIDEO_GAME, title='Super Mario Kart Xtreme', year=2000, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt9058054', rating=0.0, numVotes=0}}
+Movie{ID='tt9286660', titleType=VIDEO_GAME, title='Mario Golf', year=1999, runtimeMinutes=0, genres=[FAMILY, SPORT], rating=Rating{ID='tt9286660', rating=6.5, numVotes=32}}
+Movie{ID='tt9286818', titleType=VIDEO_GAME, title='Mario Tennis', year=2000, runtimeMinutes=0, genres=[ADVENTURE, SPORT], rating=Rating{ID='tt9286818', rating=6.3, numVotes=35}}
+Movie{ID='tt9287012', titleType=VIDEO_GAME, title='Dr. Mario: Miracle Cure', year=2015, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt9287012', rating=5.4, numVotes=19}}
+Movie{ID='tt9287052', titleType=VIDEO_GAME, title='Mini Mario & Friends: amiibo Challenge', year=2016, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt9287052', rating=3.9, numVotes=16}}
+Movie{ID='tt9287182', titleType=VIDEO_GAME, title='Mario Bros II', year=1987, runtimeMinutes=0, genres=[ACTION], rating=Rating{ID='tt9287182', rating=0.0, numVotes=0}}
+Movie{ID='tt9630194', titleType=VIDEO_GAME, title='New Super Mario Bros. U Deluxe', year=2019, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt9630194', rating=7.8, numVotes=1150}}
+Movie{ID='tt9630228', titleType=VIDEO_GAME, title='Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey', year=2018, runtimeMinutes=0, genres=[ACTION, FANTASY], rating=Rating{ID='tt9630228', rating=7.3, numVotes=70}}
+Movie{ID='tt9780232', titleType=VIDEO_GAME, title='Super Mario Maker 2', year=2019, runtimeMinutes=0, genres=[ACTION, ADVENTURE, FAMILY], rating=Rating{ID='tt9780232', rating=8.2, numVotes=1150}}
+Elapsed time (s): 0.309
+Processing: CONTAINS TV_SERIES Breaking
+Movie{ID='tt0056743', titleType=TV_SERIES, title='Breaking Point', year=1963, runtimeMinutes=60, genres=[DRAMA], rating=Rating{ID='tt0056743', rating=7.3, numVotes=85}}
+Movie{ID='tt0080203', titleType=TV_SERIES, title='Breaking Away', year=1980, runtimeMinutes=60, genres=[DRAMA, FAMILY], rating=Rating{ID='tt0080203', rating=7.3, numVotes=221}}
+Movie{ID='tt0108780', titleType=TV_SERIES, title='Breaking News', year=1994, runtimeMinutes=30, genres=[COMEDY, DRAMA], rating=Rating{ID='tt0108780', rating=8.7, numVotes=1387}}
+Movie{ID='tt0189245', titleType=TV_SERIES, title='Breaking Ground', year=1994, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt0189245', rating=0.0, numVotes=0}}
+Movie{ID='tt0245022', titleType=TV_SERIES, title='Breaking News', year=2002, runtimeMinutes=60, genres=[DRAMA], rating=Rating{ID='tt0245022', rating=6.1, numVotes=72}}
+Movie{ID='tt0273130', titleType=TV_SERIES, title='Breaking Point', year=1966, runtimeMinutes=30, genres=[THRILLER], rating=Rating{ID='tt0273130', rating=0.0, numVotes=0}}
+Movie{ID='tt0395116', titleType=TV_SERIES, title='Breaking Up', year=1986, runtimeMinutes=55, genres=[COMEDY, DRAMA], rating=Rating{ID='tt0395116', rating=7.3, numVotes=9}}
+Movie{ID='tt0445870', titleType=TV_SERIES, title='Breaking Vegas', year=2005, runtimeMinutes=60, genres=[DOCUMENTARY, DRAMA], rating=Rating{ID='tt0445870', rating=8.4, numVotes=48}}
+Movie{ID='tt0471988', titleType=TV_SERIES, title='Breaking Bonaduce', year=2005, runtimeMinutes=0, genres=[DRAMA, REALITY_TV], rating=Rating{ID='tt0471988', rating=5.2, numVotes=114}}
+Movie{ID='tt0805810', titleType=TV_SERIES, title='Breaking Up with Shannen Doherty', year=2006, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt0805810', rating=3.9, numVotes=132}}
+Movie{ID='tt0816743', titleType=TV_SERIES, title='Breaking Point', year=2004, runtimeMinutes=30, genres=[DOCUMENTARY], rating=Rating{ID='tt0816743', rating=0.0, numVotes=0}}
+Movie{ID='tt0903747', titleType=TV_SERIES, title='Breaking Bad', year=2008, runtimeMinutes=45, genres=[CRIME, DRAMA, THRILLER], rating=Rating{ID='tt0903747', rating=9.5, numVotes=2401432}}
+Movie{ID='tt10102954', titleType=TV_SERIES, title='Breaking the News', year=2018, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt10102954', rating=7.8, numVotes=8}}
+Movie{ID='tt10268410', titleType=TV_SERIES, title='Breaking the Law with Luke Ashlocke', year=0, runtimeMinutes=0, genres=[HISTORY], rating=Rating{ID='tt10268410', rating=0.0, numVotes=0}}
+Movie{ID='tt10328936', titleType=TV_SERIES, title='Breaking Dawn', year=2019, runtimeMinutes=45, genres=[CRIME], rating=Rating{ID='tt10328936', rating=6.6, numVotes=9}}
+Movie{ID='tt10374492', titleType=TV_SERIES, title='Breaking Strongholds', year=2021, runtimeMinutes=0, genres=[DRAMA, MYSTERY], rating=Rating{ID='tt10374492', rating=8.6, numVotes=36}}
+Movie{ID='tt10443130', titleType=TV_SERIES, title='Women Breaking the Mold', year=2019, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt10443130', rating=0.0, numVotes=0}}
+Movie{ID='tt10568768', titleType=TV_SERIES, title='Breaking news', year=2019, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt10568768', rating=0.0, numVotes=0}}
+Movie{ID='tt10887470', titleType=TV_SERIES, title='Breaking News', year=2018, runtimeMinutes=0, genres=[COMEDY, REALITY_TV], rating=Rating{ID='tt10887470', rating=7.4, numVotes=218}}
+Movie{ID='tt11153128', titleType=TV_SERIES, title='JP DeRose Breaking Boundaries', year=2016, runtimeMinutes=23, genres=[SPORT], rating=Rating{ID='tt11153128', rating=0.0, numVotes=0}}
+Movie{ID='tt11176484', titleType=TV_SERIES, title='Breaking Fashion', year=2019, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt11176484', rating=0.0, numVotes=0}}
+Movie{ID='tt11338324', titleType=TV_SERIES, title='Breaking Even', year=2020, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt11338324', rating=6.5, numVotes=133}}
+Movie{ID='tt11685508', titleType=TV_SERIES, title='Blind Wave: Breaking Bad Reaction', year=2018, runtimeMinutes=30, genres=[TALK_SHOW], rating=Rating{ID='tt11685508', rating=0.0, numVotes=0}}
+Movie{ID='tt1235458', titleType=TV_SERIES, title='Breaking Into Tesco', year=2008, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt1235458', rating=0.0, numVotes=0}}
+Movie{ID='tt12393084', titleType=TV_SERIES, title='Bekasr taa (Breaking the Chains)', year=2019, runtimeMinutes=25, genres=[DOCUMENTARY], rating=Rating{ID='tt12393084', rating=0.0, numVotes=0}}
+Movie{ID='tt12777842', titleType=TV_SERIES, title='ID Breaking Now', year=2020, runtimeMinutes=45, genres=[DOCUMENTARY], rating=Rating{ID='tt12777842', rating=7.0, numVotes=7}}
+Movie{ID='tt12861552', titleType=TV_SERIES, title='Breaking Boots', year=2021, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt12861552', rating=0.0, numVotes=0}}
+Movie{ID='tt12929126', titleType=TV_SERIES, title='Breaking Silence', year=2020, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt12929126', rating=0.0, numVotes=0}}
+Movie{ID='tt13317344', titleType=TV_SERIES, title='Breaking Bread hosted by David Oxley Jr. and Glenn McCoy', year=2020, runtimeMinutes=0, genres=[TALK_SHOW], rating=Rating{ID='tt13317344', rating=0.0, numVotes=0}}
+Movie{ID='tt1333043', titleType=TV_SERIES, title='Breaking Glass', year=1994, runtimeMinutes=30, genres=[DOCUMENTARY], rating=Rating{ID='tt1333043', rating=0.0, numVotes=0}}
+Movie{ID='tt13399556', titleType=TV_SERIES, title='Breaking Beauty', year=2020, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt13399556', rating=0.0, numVotes=0}}
+Movie{ID='tt13457150', titleType=TV_SERIES, title='Breaking Bread', year=2020, runtimeMinutes=13, genres=[COMEDY], rating=Rating{ID='tt13457150', rating=0.0, numVotes=0}}
+Movie{ID='tt13644128', titleType=TV_SERIES, title='Breaking News Live with Patrick Hussion', year=2017, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt13644128', rating=0.0, numVotes=0}}
+Movie{ID='tt13773956', titleType=TV_SERIES, title='Breaking News', year=0, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt13773956', rating=0.0, numVotes=0}}
+Movie{ID='tt13891820', titleType=TV_SERIES, title='Breaking Character', year=2021, runtimeMinutes=0, genres=[TALK_SHOW], rating=Rating{ID='tt13891820', rating=0.0, numVotes=0}}
+Movie{ID='tt13899502', titleType=TV_SERIES, title='Breaking Barbi: The Series', year=0, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt13899502', rating=0.0, numVotes=0}}
+Movie{ID='tt13909878', titleType=TV_SERIES, title='Breaking and Entering', year=2020, runtimeMinutes=7, genres=[COMEDY], rating=Rating{ID='tt13909878', rating=0.0, numVotes=0}}
+Movie{ID='tt13948728', titleType=TV_SERIES, title='Gym Rat Squad- Breaking the Trap', year=0, runtimeMinutes=0, genres=[ANIMATION], rating=Rating{ID='tt13948728', rating=0.0, numVotes=0}}
+Movie{ID='tt13971732', titleType=TV_SERIES, title='Breaking Italy', year=2011, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt13971732', rating=8.8, numVotes=9}}
+Movie{ID='tt14202282', titleType=TV_SERIES, title='Bangkok Breaking', year=2021, runtimeMinutes=60, genres=[ACTION, CRIME, DRAMA], rating=Rating{ID='tt14202282', rating=5.9, numVotes=453}}
+Movie{ID='tt14220274', titleType=TV_SERIES, title='KNRX Breaking News', year=2021, runtimeMinutes=20, genres=[COMEDY], rating=Rating{ID='tt14220274', rating=0.0, numVotes=0}}
+Movie{ID='tt14310670', titleType=TV_SERIES, title='Breaking Bread', year=2021, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt14310670', rating=0.0, numVotes=0}}
+Movie{ID='tt14391488', titleType=TV_SERIES, title='Breaking Through 702', year=2021, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt14391488', rating=0.0, numVotes=0}}
+Movie{ID='tt14405698', titleType=TV_SERIES, title='Breaking the News', year=2021, runtimeMinutes=60, genres=[DOCUMENTARY], rating=Rating{ID='tt14405698', rating=0.0, numVotes=0}}
+Movie{ID='tt14406232', titleType=TV_SERIES, title='Breaking news', year=2020, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt14406232', rating=0.0, numVotes=0}}
+Movie{ID='tt14408016', titleType=TV_SERIES, title='Now, We Are Breaking Up', year=2021, runtimeMinutes=60, genres=[DRAMA, ROMANCE], rating=Rating{ID='tt14408016', rating=6.4, numVotes=1825}}
+Movie{ID='tt14571488', titleType=TV_SERIES, title='Breaking limits', year=0, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt14571488', rating=0.0, numVotes=0}}
+Movie{ID='tt14760138', titleType=TV_SERIES, title='Breaking Bobby Bones', year=2021, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt14760138', rating=7.7, numVotes=68}}
+Movie{ID='tt14796940', titleType=TV_SERIES, title='Breaking Points with Krystal and Saagar', year=2021, runtimeMinutes=60, genres=[TALK_SHOW], rating=Rating{ID='tt14796940', rating=8.3, numVotes=131}}
+Movie{ID='tt14945222', titleType=TV_SERIES, title='Forbes Breaking News', year=2011, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt14945222', rating=0.0, numVotes=0}}
+Movie{ID='tt15010264', titleType=TV_SERIES, title='Tweetie Voice Breaking News', year=2021, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt15010264', rating=0.0, numVotes=0}}
+Movie{ID='tt15175802', titleType=TV_SERIES, title='Breaking Beyond', year=2021, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt15175802', rating=8.7, numVotes=10}}
+Movie{ID='tt15214098', titleType=TV_SERIES, title='Xenomorph Films presents Breaking and Entering', year=2021, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt15214098', rating=0.0, numVotes=0}}
+Movie{ID='tt15222446', titleType=TV_SERIES, title='Breaking Bland', year=2021, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt15222446', rating=6.3, numVotes=15}}
+Movie{ID='tt15275412', titleType=TV_SERIES, title='Breaking Now', year=2021, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt15275412', rating=0.0, numVotes=0}}
+Movie{ID='tt15340904', titleType=TV_SERIES, title='Breaking Ground', year=2021, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt15340904', rating=0.0, numVotes=0}}
+Movie{ID='tt15660164', titleType=TV_SERIES, title='Breaking Bread', year=0, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt15660164', rating=0.0, numVotes=0}}
+Movie{ID='tt1590842', titleType=TV_SERIES, title='Breaking Point', year=2010, runtimeMinutes=60, genres=[REALITY_TV], rating=Rating{ID='tt1590842', rating=6.4, numVotes=17}}
+Movie{ID='tt1595861', titleType=TV_SERIES, title='Breaking Down the Bars', year=2011, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt1595861', rating=6.5, numVotes=25}}
+Movie{ID='tt1630574', titleType=TV_SERIES, title='Breaking In', year=2011, runtimeMinutes=30, genres=[COMEDY, CRIME], rating=Rating{ID='tt1630574', rating=7.1, numVotes=7687}}
+Movie{ID='tt16398874', titleType=TV_SERIES, title='Breaking Weather', year=2021, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt16398874', rating=0.0, numVotes=0}}
+Movie{ID='tt16432668', titleType=TV_SERIES, title='Breaking Into College', year=2021, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt16432668', rating=8.9, numVotes=12}}
+Movie{ID='tt17538610', titleType=TV_SERIES, title='Breaking the Build', year=2019, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt17538610', rating=8.5, numVotes=8}}
+Movie{ID='tt17719996', titleType=TV_SERIES, title='Breaking Point: Indian Submariners', year=2018, runtimeMinutes=0, genres=[ADVENTURE], rating=Rating{ID='tt17719996', rating=7.6, numVotes=9}}
+Movie{ID='tt1806630', titleType=TV_SERIES, title='The Breaking into Hollywood Show', year=2010, runtimeMinutes=0, genres=[TALK_SHOW], rating=Rating{ID='tt1806630', rating=0.0, numVotes=0}}
+Movie{ID='tt18305182', titleType=TV_SERIES, title='Breaking the Huddle', year=2016, runtimeMinutes=0, genres=[TALK_SHOW], rating=Rating{ID='tt18305182', rating=0.0, numVotes=0}}
+Movie{ID='tt1870697', titleType=TV_SERIES, title='Breaking News! The Invasion Begins!', year=2009, runtimeMinutes=0, genres=[ACTION, COMEDY, NEWS], rating=Rating{ID='tt1870697', rating=0.0, numVotes=0}}
+Movie{ID='tt18749002', titleType=TV_SERIES, title='Breaking Character', year=2022, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt18749002', rating=8.3, numVotes=8}}
+Movie{ID='tt1921348', titleType=TV_SERIES, title='Breaking the Habit', year=1988, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt1921348', rating=0.0, numVotes=0}}
+Movie{ID='tt1961999', titleType=TV_SERIES, title='Breaking Through', year=2011, runtimeMinutes=45, genres=[TALK_SHOW], rating=Rating{ID='tt1961999', rating=0.0, numVotes=0}}
+Movie{ID='tt19881322', titleType=TV_SERIES, title='Breaking Bones (Kaser Adem)', year=2022, runtimeMinutes=40, genres=[ACTION, DRAMA], rating=Rating{ID='tt19881322', rating=7.9, numVotes=348}}
+Movie{ID='tt1990489', titleType=TV_SERIES, title='Breaking Point', year=2011, runtimeMinutes=10, genres=[DRAMA], rating=Rating{ID='tt1990489', rating=5.9, numVotes=30}}
+Movie{ID='tt1991385', titleType=TV_SERIES, title='Breaking Through with E.P.', year=2008, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt1991385', rating=0.0, numVotes=0}}
+Movie{ID='tt2089960', titleType=TV_SERIES, title='Breaking Bread', year=2009, runtimeMinutes=25, genres=[TALK_SHOW], rating=Rating{ID='tt2089960', rating=0.0, numVotes=0}}
+Movie{ID='tt21102472', titleType=TV_SERIES, title='Breaking Ground', year=2020, runtimeMinutes=5, genres=[DOCUMENTARY], rating=Rating{ID='tt21102472', rating=8.0, numVotes=7}}
+Movie{ID='tt2110603', titleType=TV_SERIES, title='Breaking from Above', year=2011, runtimeMinutes=30, genres=[MUSIC, REALITY_TV], rating=Rating{ID='tt2110603', rating=4.2, numVotes=15}}
+Movie{ID='tt21293486', titleType=TV_SERIES, title='Breaking Bed', year=2022, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt21293486', rating=0.0, numVotes=0}}
+Movie{ID='tt2181847', titleType=TV_SERIES, title='Breaking Los Angeles', year=2011, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt2181847', rating=6.5, numVotes=120}}
+Movie{ID='tt2261347', titleType=TV_SERIES, title='Breaking Even', year=2012, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt2261347', rating=9.2, numVotes=7}}
+Movie{ID='tt2290981', titleType=TV_SERIES, title='Breaking Pointe', year=2012, runtimeMinutes=60, genres=[REALITY_TV], rating=Rating{ID='tt2290981', rating=7.1, numVotes=659}}
+Movie{ID='tt2310569', titleType=TV_SERIES, title='Breaking the News', year=2012, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt2310569', rating=6.5, numVotes=6}}
+Movie{ID='tt23770326', titleType=TV_SERIES, title='Breaking News', year=2014, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt23770326', rating=0.0, numVotes=0}}
+Movie{ID='tt23775688', titleType=TV_SERIES, title='Breaking News', year=2018, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt23775688', rating=0.0, numVotes=0}}
+Movie{ID='tt2386354', titleType=TV_SERIES, title='Breaking Amish', year=2012, runtimeMinutes=60, genres=[DOCUMENTARY, DRAMA, REALITY_TV], rating=Rating{ID='tt2386354', rating=5.1, numVotes=1222}}
+Movie{ID='tt2387761', titleType=TV_SERIES, title='Breaking Bad: Original Minisodes', year=2009, runtimeMinutes=5, genres=[COMEDY, CRIME, DRAMA], rating=Rating{ID='tt2387761', rating=7.5, numVotes=1796}}
+Movie{ID='tt2445546', titleType=TV_SERIES, title='Breaking Magic', year=2012, runtimeMinutes=60, genres=[DOCUMENTARY], rating=Rating{ID='tt2445546', rating=7.1, numVotes=74}}
+Movie{ID='tt26597495', titleType=TV_SERIES, title='Breaking Down Barriers', year=2023, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt26597495', rating=0.0, numVotes=0}}
+Movie{ID='tt2722808', titleType=TV_SERIES, title='Breaking Bread', year=2013, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt2722808', rating=0.0, numVotes=0}}
+Movie{ID='tt2724132', titleType=TV_SERIES, title='Breaking Fat', year=2013, runtimeMinutes=0, genres=[COMEDY, SHORT], rating=Rating{ID='tt2724132', rating=4.5, numVotes=30}}
+Movie{ID='tt27623107', titleType=TV_SERIES, title='Breaking the Ice', year=2023, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt27623107', rating=6.3, numVotes=22}}
+Movie{ID='tt27872336', titleType=TV_SERIES, title='Breaking Up Is Hard to Do', year=2023, runtimeMinutes=7, genres=[COMEDY], rating=Rating{ID='tt27872336', rating=0.0, numVotes=0}}
+Movie{ID='tt2802050', titleType=TV_SERIES, title='Breaking & Entering', year=2013, runtimeMinutes=22, genres=[COMEDY], rating=Rating{ID='tt2802050', rating=0.0, numVotes=0}}
+Movie{ID='tt2820378', titleType=TV_SERIES, title='Spring Breaking Point', year=2014, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt2820378', rating=0.0, numVotes=0}}
+Movie{ID='tt28233344', titleType=TV_SERIES, title='Breaking Bread with Alexander', year=2023, runtimeMinutes=0, genres=[TALK_SHOW], rating=Rating{ID='tt28233344', rating=0.0, numVotes=0}}
+Movie{ID='tt28351126', titleType=TV_SERIES, title='Breaking the Shadows', year=2025, runtimeMinutes=45, genres=[CRIME, DRAMA, MYSTERY], rating=Rating{ID='tt28351126', rating=6.3, numVotes=30}}
+Movie{ID='tt28450861', titleType=TV_SERIES, title='Breaking the Vote', year=2022, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt28450861', rating=0.0, numVotes=0}}
+Movie{ID='tt28640195', titleType=TV_SERIES, title='Breaking Grad', year=2023, runtimeMinutes=0, genres=[ADVENTURE, COMEDY], rating=Rating{ID='tt28640195', rating=0.0, numVotes=0}}
+Movie{ID='tt2930578', titleType=TV_SERIES, title='Breaking Amish: Brave New World', year=2013, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt2930578', rating=5.5, numVotes=160}}
+Movie{ID='tt29382275', titleType=TV_SERIES, title='Asylum Breaking News', year=0, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt29382275', rating=0.0, numVotes=0}}
+Movie{ID='tt2980402', titleType=TV_SERIES, title='Breaking Good', year=2012, runtimeMinutes=0, genres=[COMEDY, CRIME, SHORT], rating=Rating{ID='tt2980402', rating=8.0, numVotes=25}}
+Movie{ID='tt30052585', titleType=TV_SERIES, title='Breaking Sound', year=2019, runtimeMinutes=30, genres=[MUSIC, TALK_SHOW], rating=Rating{ID='tt30052585', rating=0.0, numVotes=0}}
+Movie{ID='tt30217819', titleType=TV_SERIES, title='Breaking into Hollywood', year=2024, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt30217819', rating=0.0, numVotes=0}}
+Movie{ID='tt30469810', titleType=TV_SERIES, title='Breaking Kitchen', year=2022, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt30469810', rating=9.2, numVotes=17}}
+Movie{ID='tt3057670', titleType=TV_SERIES, title='Breaking Amish: LA', year=2013, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt3057670', rating=5.7, numVotes=248}}
+Movie{ID='tt30798603', titleType=TV_SERIES, title='Breaking News', year=2023, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt30798603', rating=6.6, numVotes=10}}
+Movie{ID='tt30801485', titleType=TV_SERIES, title='Breaking Sponge', year=2024, runtimeMinutes=8, genres=[CRIME], rating=Rating{ID='tt30801485', rating=9.3, numVotes=26}}
+Movie{ID='tt3098562', titleType=TV_SERIES, title='Breaking the Set', year=2013, runtimeMinutes=30, genres=[NEWS], rating=Rating{ID='tt3098562', rating=6.2, numVotes=86}}
+Movie{ID='tt31330113', titleType=TV_SERIES, title='Breaking Bread', year=2021, runtimeMinutes=0, genres=[TALK_SHOW], rating=Rating{ID='tt31330113', rating=0.0, numVotes=0}}
+Movie{ID='tt3168328', titleType=TV_SERIES, title='Breaking Good News', year=2012, runtimeMinutes=28, genres=[TALK_SHOW], rating=Rating{ID='tt3168328', rating=0.0, numVotes=0}}
+Movie{ID='tt31887325', titleType=TV_SERIES, title='Breaking through the firing zone', year=2012, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt31887325', rating=0.0, numVotes=0}}
+Movie{ID='tt31947002', titleType=TV_SERIES, title='Breaking Ground', year=2009, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt31947002', rating=0.0, numVotes=0}}
+Movie{ID='tt31975598', titleType=TV_SERIES, title='Breaking Point Unscripted Series', year=0, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt31975598', rating=0.0, numVotes=0}}
+Movie{ID='tt32306198', titleType=TV_SERIES, title='Breaking Pickleball', year=2024, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt32306198', rating=9.0, numVotes=86}}
+Movie{ID='tt32430063', titleType=TV_SERIES, title='Breaking Life: Road to Paris 2024', year=2024, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt32430063', rating=0.0, numVotes=0}}
+Movie{ID='tt32497163', titleType=TV_SERIES, title='Breaking Down a Script', year=2024, runtimeMinutes=0, genres=[SHORT], rating=Rating{ID='tt32497163', rating=0.0, numVotes=0}}
+Movie{ID='tt32752566', titleType=TV_SERIES, title='Breaking the Silence', year=2018, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt32752566', rating=0.0, numVotes=0}}
+Movie{ID='tt32813254', titleType=TV_SERIES, title='Untitled Korean remake of Breaking Bad', year=0, runtimeMinutes=0, genres=[CRIME, DRAMA, THRILLER], rating=Rating{ID='tt32813254', rating=0.0, numVotes=0}}
+Movie{ID='tt32896259', titleType=TV_SERIES, title='Breaking New Ground', year=2024, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt32896259', rating=7.8, numVotes=55}}
+Movie{ID='tt3325866', titleType=TV_SERIES, title='Breaking News med Filip och Fredrik', year=2011, runtimeMinutes=45, genres=[TALK_SHOW], rating=Rating{ID='tt3325866', rating=5.8, numVotes=198}}
+Movie{ID='tt33381886', titleType=TV_SERIES, title='YNTV Breaking News', year=0, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt33381886', rating=0.0, numVotes=0}}
+Movie{ID='tt33581277', titleType=TV_SERIES, title='Breaking the Barriers India's Race to Glory', year=2024, runtimeMinutes=148, genres=[DOCUMENTARY, HISTORY, SPORT], rating=Rating{ID='tt33581277', rating=0.0, numVotes=0}}
+Movie{ID='tt34758229', titleType=TV_SERIES, title='Breaking Pack', year=2023, runtimeMinutes=30, genres=[TALK_SHOW], rating=Rating{ID='tt34758229', rating=0.0, numVotes=0}}
+Movie{ID='tt35271828', titleType=TV_SERIES, title='Breaking Point', year=2024, runtimeMinutes=61, genres=[DRAMA, HORROR, THRILLER], rating=Rating{ID='tt35271828', rating=0.0, numVotes=0}}
+Movie{ID='tt35430121', titleType=TV_SERIES, title='Estação Breaking: FitDance', year=2024, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt35430121', rating=0.0, numVotes=0}}
+Movie{ID='tt3559000', titleType=TV_SERIES, title='Breaking Curfew', year=2014, runtimeMinutes=22, genres=[COMEDY, FAMILY], rating=Rating{ID='tt3559000', rating=0.0, numVotes=0}}
+Movie{ID='tt3600966', titleType=TV_SERIES, title='Breaking Boston', year=2014, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt3600966', rating=0.0, numVotes=0}}
+Movie{ID='tt36071687', titleType=TV_SERIES, title='Twitter: Breaking the Bird', year=2025, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt36071687', rating=6.7, numVotes=202}}
+Movie{ID='tt36319000', titleType=TV_SERIES, title='Wavewalker: Breaking Free', year=0, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt36319000', rating=0.0, numVotes=0}}
+Movie{ID='tt36852622', titleType=TV_SERIES, title='Dr. Pimple Popper: Breaking Out', year=2025, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt36852622', rating=7.5, numVotes=22}}
+Movie{ID='tt36956617', titleType=TV_SERIES, title='Tony Shalhoub Breaking Bread', year=0, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt36956617', rating=0.0, numVotes=0}}
+Movie{ID='tt37254483', titleType=TV_SERIES, title='Breaking the Deadlock', year=2025, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt37254483', rating=0.0, numVotes=0}}
+Movie{ID='tt37436892', titleType=TV_SERIES, title='Hip Hop Breaking News', year=2022, runtimeMinutes=0, genres=[MUSIC], rating=Rating{ID='tt37436892', rating=0.0, numVotes=0}}
+Movie{ID='tt37540174', titleType=TV_SERIES, title='Breaking Point', year=2020, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt37540174', rating=0.0, numVotes=0}}
+Movie{ID='tt38352631', titleType=TV_SERIES, title='Breaking Dawn', year=2024, runtimeMinutes=0, genres=[DRAMA], rating=Rating{ID='tt38352631', rating=0.0, numVotes=0}}
+Movie{ID='tt38453149', titleType=TV_SERIES, title='Breaking Bread with Lydie Denier', year=0, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt38453149', rating=0.0, numVotes=0}}
+Movie{ID='tt4245192', titleType=TV_SERIES, title='Breaking Point', year=2015, runtimeMinutes=0, genres=[BIOGRAPHY, CRIME, DOCUMENTARY], rating=Rating{ID='tt4245192', rating=8.4, numVotes=56}}
+Movie{ID='tt4262344', titleType=TV_SERIES, title='Breaking Greenville', year=2015, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt4262344', rating=8.3, numVotes=46}}
+Movie{ID='tt4338086', titleType=TV_SERIES, title='Breaking Through', year=2015, runtimeMinutes=48, genres=[COMEDY, DRAMA], rating=Rating{ID='tt4338086', rating=0.0, numVotes=0}}
+Movie{ID='tt4362312', titleType=TV_SERIES, title='Breaking Borders', year=2015, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt4362312', rating=8.5, numVotes=60}}
+Movie{ID='tt4516518', titleType=TV_SERIES, title='Fixing Breaking Bad', year=2013, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt4516518', rating=0.0, numVotes=0}}
+Movie{ID='tt4718748', titleType=TV_SERIES, title='Breaking Dating', year=2015, runtimeMinutes=0, genres=[TALK_SHOW], rating=Rating{ID='tt4718748', rating=0.0, numVotes=0}}
+Movie{ID='tt4854852', titleType=TV_SERIES, title='Breaking Band', year=2015, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt4854852', rating=6.4, numVotes=11}}
+Movie{ID='tt4863760', titleType=TV_SERIES, title='Breaking', year=2015, runtimeMinutes=0, genres=[CRIME], rating=Rating{ID='tt4863760', rating=0.0, numVotes=0}}
+Movie{ID='tt4874938', titleType=TV_SERIES, title='Doris & Mary-Anne Are Breaking Out of Prison', year=2015, runtimeMinutes=0, genres=[ANIMATION], rating=Rating{ID='tt4874938', rating=5.9, numVotes=14}}
+Movie{ID='tt5093930', titleType=TV_SERIES, title='Breaking Ice', year=2013, runtimeMinutes=0, genres=[NONE], rating=Rating{ID='tt5093930', rating=0.0, numVotes=0}}
+Movie{ID='tt5130724', titleType=TV_SERIES, title='Breaking Ground', year=2015, runtimeMinutes=0, genres=[BIOGRAPHY, DOCUMENTARY, REALITY_TV], rating=Rating{ID='tt5130724', rating=8.0, numVotes=166}}
+Movie{ID='tt5152222', titleType=TV_SERIES, title='Breaking Bread with Brooke Burke', year=2015, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt5152222', rating=0.0, numVotes=0}}
+Movie{ID='tt5496320', titleType=TV_SERIES, title='Bear Grylls: Breaking Point', year=2015, runtimeMinutes=45, genres=[DOCUMENTARY], rating=Rating{ID='tt5496320', rating=7.0, numVotes=72}}
+Movie{ID='tt5533400', titleType=TV_SERIES, title='Breaking Borders', year=0, runtimeMinutes=0, genres=[THRILLER], rating=Rating{ID='tt5533400', rating=0.0, numVotes=0}}
+Movie{ID='tt5814588', titleType=TV_SERIES, title='Cnote: Breaking the Band', year=2007, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt5814588', rating=0.0, numVotes=0}}
+Movie{ID='tt5822506', titleType=TV_SERIES, title='Breaking Up with Linda', year=2013, runtimeMinutes=0, genres=[COMEDY], rating=Rating{ID='tt5822506', rating=0.0, numVotes=0}}
+Movie{ID='tt6011180', titleType=TV_SERIES, title='Breaking the Ice', year=2016, runtimeMinutes=30, genres=[TALK_SHOW], rating=Rating{ID='tt6011180', rating=0.0, numVotes=0}}
+Movie{ID='tt6038892', titleType=TV_SERIES, title='Diamond and Silk Breaking News', year=2015, runtimeMinutes=0, genres=[NEWS], rating=Rating{ID='tt6038892', rating=4.6, numVotes=7}}
+Movie{ID='tt6437024', titleType=TV_SERIES, title='Breaking the Barriers', year=2015, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt6437024', rating=6.1, numVotes=838}}
+Movie{ID='tt6493132', titleType=TV_SERIES, title='Darkness Breaking', year=2017, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt6493132', rating=0.0, numVotes=0}}
+Movie{ID='tt6683584', titleType=TV_SERIES, title='Breaking the Waves aka Yong Bo Ji Liu', year=2012, runtimeMinutes=46, genres=[DOCUMENTARY, SPORT], rating=Rating{ID='tt6683584', rating=0.0, numVotes=0}}
+Movie{ID='tt6857192', titleType=TV_SERIES, title='Breaking the Box', year=2016, runtimeMinutes=20, genres=[COMEDY, SHORT], rating=Rating{ID='tt6857192', rating=0.0, numVotes=0}}
+Movie{ID='tt6868580', titleType=TV_SERIES, title='BreakingNC', year=2010, runtimeMinutes=30, genres=[FAMILY], rating=Rating{ID='tt6868580', rating=0.0, numVotes=0}}
+Movie{ID='tt7094390', titleType=TV_SERIES, title='Carlos and Yani: Breaking Neck', year=2017, runtimeMinutes=0, genres=[ANIMATION], rating=Rating{ID='tt7094390', rating=0.0, numVotes=0}}
+Movie{ID='tt7164834', titleType=TV_SERIES, title='Breaking Bass', year=2017, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt7164834', rating=0.0, numVotes=0}}
+Movie{ID='tt7259228', titleType=TV_SERIES, title='Breaking News: Fake Trump Cartoons!', year=2017, runtimeMinutes=0, genres=[ANIMATION], rating=Rating{ID='tt7259228', rating=5.2, numVotes=38}}
+Movie{ID='tt7306930', titleType=TV_SERIES, title='Breaking the Day', year=2017, runtimeMinutes=0, genres=[REALITY_TV], rating=Rating{ID='tt7306930', rating=0.0, numVotes=0}}
+Movie{ID='tt7877278', titleType=TV_SERIES, title='Breaking the Band: the Beatles', year=2018, runtimeMinutes=44, genres=[DOCUMENTARY], rating=Rating{ID='tt7877278', rating=0.0, numVotes=0}}
+Movie{ID='tt7878864', titleType=TV_SERIES, title='Breaking Homicide', year=2018, runtimeMinutes=96, genres=[CRIME], rating=Rating{ID='tt7878864', rating=7.3, numVotes=346}}
+Movie{ID='tt7880132', titleType=TV_SERIES, title='Breaking the Mold: Human Inspirations', year=2018, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt7880132', rating=0.0, numVotes=0}}
+Movie{ID='tt7884446', titleType=TV_SERIES, title='Black Hollywood Live: Breaking Into', year=2017, runtimeMinutes=60, genres=[TALK_SHOW], rating=Rating{ID='tt7884446', rating=0.0, numVotes=0}}
+Movie{ID='tt8068670', titleType=TV_SERIES, title='Breaking the Band', year=2018, runtimeMinutes=60, genres=[DOCUMENTARY], rating=Rating{ID='tt8068670', rating=6.9, numVotes=103}}
+Movie{ID='tt8571462', titleType=TV_SERIES, title='Breaking Big', year=2018, runtimeMinutes=30, genres=[DOCUMENTARY], rating=Rating{ID='tt8571462', rating=8.4, numVotes=35}}
+Movie{ID='tt8779136', titleType=TV_SERIES, title='Breaking Trail', year=2014, runtimeMinutes=0, genres=[ADVENTURE, DOCUMENTARY], rating=Rating{ID='tt8779136', rating=8.6, numVotes=26}}
+Movie{ID='tt8840790', titleType=TV_SERIES, title='Breaking Hate', year=2018, runtimeMinutes=0, genres=[DOCUMENTARY], rating=Rating{ID='tt8840790', rating=8.7, numVotes=29}}
+Movie{ID='tt8924530', titleType=TV_SERIES, title='Breaking Par', year=2016, runtimeMinutes=0, genres=[SPORT], rating=Rating{ID='tt8924530', rating=0.0, numVotes=0}}
+Movie{ID='tt9273744', titleType=TV_SERIES, title='Breaking News med Jessica Almenäs', year=2018, runtimeMinutes=45, genres=[TALK_SHOW], rating=Rating{ID='tt9273744', rating=4.9, numVotes=15}}
+Movie{ID='tt9387064', titleType=TV_SERIES, title='We're Breaking Up', year=2014, runtimeMinutes=0, genres=[COMEDY, SHORT], rating=Rating{ID='tt9387064', rating=0.0, numVotes=0}}
+Movie{ID='tt9516768', titleType=TV_SERIES, title='Bradley Walsh & Son: Breaking Dad', year=2019, runtimeMinutes=30, genres=[ADVENTURE, REALITY_TV], rating=Rating{ID='tt9516768', rating=7.4, numVotes=193}}
+Elapsed time (s): 0.432
