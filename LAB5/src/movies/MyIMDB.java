@@ -35,8 +35,19 @@ public class MyIMDB extends IMDB {
         List<Movie> result = new LinkedList<>();
 
         // TODO Activity 1.2
+        List<Movie> temp;
+        for (int i =0;i<movieList.size();i++)
+        {
 
-        return result;
+
+            if(movieList.get(i).getTitleType().equals(type) && movieList.get(i).getTitle().contains(words)){
+                temp.add(movieList.get(i));
+
+            }
+
+        }
+        return temp;
+        //return result;
     }
 
     @Override
